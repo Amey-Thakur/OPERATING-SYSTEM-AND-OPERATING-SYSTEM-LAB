@@ -29,7 +29,7 @@
  - OSL [Experiments](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/PRACTICAL%20LAB.pdf)
 
 ## Operating System Project
- >**Compound and Simple Interest Calculator**
+ >**[Compound and Simple Interest Calculator](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)** - **PROJECT REPOSITORY**
   
  - [Shell Script to calculate simple and compound interest](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/blob/main/Simple_%26_Compound_Interest_Calculator.sh)
  
