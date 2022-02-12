@@ -26,12 +26,12 @@
  - OS [Assignment - 2](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Assignments/OS_Assignment-3.pdf)
  
 ## Operating System Lab
- - OSL [Experiments](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/PRACTICAL%20LAB.pdf)
+ - OS Lab [Experiments](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/PRACTICAL%20LAB.pdf)
 
 ## Operating System Project
  >**[Compound and Simple Interest Calculator](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR) - PROJECT REPOSITORY**
   
- - [Shell Script to calculate simple and compound interest](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/blob/main/Simple_%26_Compound_Interest_Calculator.sh)
+ - [Shell Script to calculate simple and compound interest](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/blob/main/Simple_%26_Compound_Interest_Calculator.sh) - Code
  
  - [Report](https://github.com/Amey-Thakur/OPERATING-SYSTEM-LAB/blob/main/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)
 
