@@ -4,7 +4,7 @@
 ---
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**
- - [x] **OS - [Reference Books](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/tree/main/Reference%20Books)**
+ - [X] **OS - [Reference Books](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/tree/main/Reference%20Books)**
  
 ---
  
@@ -15,14 +15,20 @@
 
 ## THE WALL
 >**[MEGA SATISH](https://github.com/msatmod) - AUTHOR**
+ 
  - OS [Chapter - 1](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/THE%20WALL/OS_Chapter-1.pdf)
+ 
  - OS [Chapter - 2](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/THE%20WALL/OS_Chapter-2.pdf)
+ 
  - OS [Chapter - 3](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/THE%20WALL/OS_Chapter-3.pdf)
+ 
  - OS [Chapter - 4](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/THE%20WALL/OS_Chapter-4.pdf)
+ 
  - OS [Chapter - 5](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/THE%20WALL/OS_Chapter-5.pdf)
+ 
  - OS [Chapter - 6](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/THE%20WALL/OS_Chapter-6.pdf)
 
-#Assignments
+## Assignments
  - OS [Assignment - 1](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Assignments/OS_Assignment-2.pdf)
  - OS [Assignment - 2](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Assignments/OS_Assignment-3.pdf)
  
