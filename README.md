@@ -243,7 +243,7 @@ A robust command-line tool written in Shell Script to calculate simple and compo
 | Resource | Description |
 |:---|:---|
 | 📜 [Project Repository](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR) | Complete source code and documentation |
-| 📊 [Project Report](Operating%20System%20Lab/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf) | Detailed documentation of logic and execution |
+| 📊 [Project Report](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/blob/main/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf) | Detailed documentation of logic and execution |
 
 ---
 
