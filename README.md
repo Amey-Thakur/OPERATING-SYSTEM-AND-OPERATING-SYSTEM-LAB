@@ -47,9 +47,9 @@
  
  >OS Lab [Experiments](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Operating%20System%20Lab/PRACTICAL%20LAB.pdf) - JOURNAL
  
- - OS Lab Experiment 4 - [SOURCE CODE](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Operating%20System%20Lab/Experiment-4/Exp4.c)
+ - OS Lab Experiment 4 - [SOURCE CODE](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Operating%20System%20Lab/Experiment-4/File_Handling_System_Calls.c)
  
- - OS Lab Experiment 5 - [FCFS](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Operating%20System%20Lab/Experiment-5/FCFS.py) & [SJF](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Operating%20System%20Lab/Experiment-5/SJF.py)
+ - OS Lab Experiment 5 - [FCFS](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Operating%20System%20Lab/Experiment-5/FCFS_Scheduling_Algorithm.py) & [SJF](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Operating%20System%20Lab/Experiment-5/SJF_Scheduling_Algorithm.py)
  
 
 ## Operating System Project
