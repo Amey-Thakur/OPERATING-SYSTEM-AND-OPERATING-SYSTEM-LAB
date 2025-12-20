@@ -226,11 +226,13 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
   **Terna Engineering College | Computer Engineering | Batch of 2022**
 
-  | <img src="https://github.com/Amey-Thakur.png" width="120" alt="Amey Thakur"> |
-  | :---: |
-  | [**Amey Thakur**](https://github.com/Amey-Thakur) |
+  | <img src="https://github.com/Amey-Thakur.png" width="120" alt="Amey Thakur"> | <img src="https://github.com/rizvihasan.png" width="120" alt="Hasan Rizvi"> |
+  | :---: | :---: |
+  | [**Amey Thakur**](https://github.com/Amey-Thakur) | [**Hasan Rizvi**](https://github.com/rizvihasan) |
 
 </div>
+
+*Special thanks to [Hasan Rizvi](https://github.com/rizvihasan) for his meaningful contributions, guidance, and support that helped shape this work.*
 
 ### 📖 Project Overview
 
@@ -293,6 +295,8 @@ This repository represents a comprehensive collection of study materials, refere
 ### Acknowledgments
 
 Grateful acknowledgment to [Mega Satish](https://github.com/msatmod) for her exceptional contribution to this repository through "THE WALL" - comprehensive chapter-wise notes that became an invaluable resource for understanding complex OS concepts. Her constant support, patience, and clarity throughout this journey made a real difference. Learning alongside her was transformative, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
+
+Grateful acknowledgment to [Hasan Rizvi](https://github.com/rizvihasan) for his exceptional contribution to this repository through the Simple and Compound Interest Calculator project. Working alongside Hasan was a truly enriching experience - his technical expertise, creative problem-solving, and unwavering dedication made every challenge feel surmountable. Beyond his scripting skills, it was his collaborative spirit and enthusiasm for innovation that transformed this project from a concept into a robust utility. His patience in debugging, willingness to explore new approaches, and commitment to delivering quality work inspired growth and learning throughout the development process. Thank you, Hasan, for being an outstanding project partner and for all the knowledge you shared along the way.
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Operating Systems. Their clear teaching and continued support helped develop a strong understanding of system internals.
 
