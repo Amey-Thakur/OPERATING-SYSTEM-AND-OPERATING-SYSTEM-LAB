@@ -3,72 +3,111 @@
 
   <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
 
-  # Operating System & Operating System Lab
+  # Operating System and Operating System Lab
 
   ### CSC405 & CSL404 · Semester IV · Computer Engineering
 
-  [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   [![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+
+  **A comprehensive academic resource for Operating System (OS) and Operating System Laboratory (OS Lab), covering process management, scheduling algorithms, memory management, file systems, and practical implementations using C and Python.**
+
+  ---
+
+  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [📝 The Wall](#the-wall) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#operating-system-laboratory) &nbsp;·&nbsp; [💻 Project](#operating-system-project) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
 
 </div>
 
 ---
 
 <!-- OVERVIEW -->
-## 📖 Overview
+## Overview
 
-**Operating System (CSC405)** explores the fundamental concepts of operating systems, including process management, memory optimization, file systems, and input/output handling. It provides a deep dive into how software manages hardware resources.
+Operating System (CSC405) and Operating System Lab (CSL404) are core subjects in the Second Year (Semester IV) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of operating system concepts, including process management, memory optimization, file systems, and input/output handling.
 
-**Operating System Lab (CSL404)** focuses on the practical implementation of these concepts, involving shell scripting, system calls, and simulation of CPU scheduling algorithms using C and Python.
+### Course Topics
 
-This repository serves as a centralized archive of **Laboratory Experiments**, **Assignments**, **Reference Books**, and **Examination Preparation Materials**.
+The curriculum encompasses several key domains in operating systems:
 
----
+- **Process Management**: Processes, threads, scheduling algorithms (FCFS, SJF, SRTN, RR)
+- **Synchronization**: Critical section problem, semaphores, monitors, classic problems of synchronization
+- **Deadlocks**: Prevention, avoidance, detection, and recovery
+- **Memory Management**: Paging, segmentation, virtual memory, page replacement algorithms
+- **File Systems**: File concepts, access methods, directory structure, protection
+- **I/O Systems**: I/O hardware, application I/O interface, kernel I/O subsystem
+- **Disk Scheduling**: FCFS, SSTF, SCAN, C-SCAN algorithms
 
-<!-- TOC -->
-## 📂 Repository Contents
+### Repository Purpose
 
-| Section | Description |
-|:---|:---|
-| **[📚 Reference Books](#reference-books)** | Essential textbooks and notes for the course |
-| **[📝 The Wall](#the-wall)** | Comprehensive chapter-wise notes by Mega Satish |
-| **[✏️ Personal Preparation](#personal-preparation)** | Syllabus, modules, blueprints, and test papers |
-| **[📄 Assignments](#assignments)** | Subject assignments and solutions |
-| **[🧪 Laboratory](#operating-system-laboratory)** | Source code and documentation for experiments |
-| **[💻 Project](#operating-system-project)** | Simple & Compound Interest Calculator (Shell Script) |
+This repository represents a curated collection of study materials, reference books, assignments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
 
----
+As I progress in my career, I recognize that OS fundamentals remain essential for systems programming, backend development, and cloud computing. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
 
-<!-- REFERENCE BOOKS -->
-## 📚 Reference Books
+**Why this repository exists:**
 
-Selected textbooks and notes for effective study:
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental OS concepts.
+- **Academic Documentation**: To authentically document my learning journey through OS and OS Lab.
+- **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
-| Book / Resource | File |
-|:---|:---|
-| **Textbook** | [OS Techmax.pdf](Reference%20Books/OS%20Techmax.pdf) |
-| **Course Notes** | [OS_Notes.pdf](Reference%20Books/OS_Notes.pdf) |
-| **Question Bank** | [OS Question Bank.png](Reference%20Books/OS%20Question%20Bank.png) |
-| **Scheduling** | [CPU Scheduling Algorithms.pdf](Reference%20Books/CPU%20Scheduling%20Algorithms.pdf) |
-| **File Management** | [File Management.pdf](Reference%20Books/File%20Management.pdf) |
-| **IO Management** | [IO Management.pdf](Reference%20Books/IO%20Management.pdf) |
-| **Deadlines** | [Job Sequencing With Deadline Problem.pdf](Reference%20Books/Job%20Sequencing%20With%20Deadline%20Problem.pdf) |
-| **Viva Prep** | [OS VIVA.png](Reference%20Books/OS%20VIVA.png) |
-| **Draft Notes** | [Rough work.pdf](Reference%20Books/Rough%20work.pdf) |
-| **Book List** | [SEM - IV Books.png](Reference%20Books/SEM%20-%20IV%20Books.png) |
+All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
 
 ---
 
-<!-- THE WALL -->
-## 📝 The Wall
+<!-- CONTENTS -->
+## Repository Contents
 
-### Coursework & Notes by Mega Satish
+### Reference Books
 
-Detailed handwritten notes covering the entire syllabus, curated by [Mega Satish](https://github.com/msatmod).
+This collection includes **10 comprehensive reference materials** covering all major topics:
 
-| # | Chapter | Topic |
+| # | Resource | Focus Area |
+|:-:|:---|:---|
+| 1 | [OS Techmax](Reference%20Books/OS%20Techmax.pdf) | Complete syllabus coverage |
+| 2 | [OS Notes](Reference%20Books/OS_Notes.pdf) | Comprehensive lecture notes |
+| 3 | [CPU Scheduling](Reference%20Books/CPU%20Scheduling%20Algorithms.pdf) | Process scheduling algorithms |
+| 4 | [File Management](Reference%20Books/File%20Management.pdf) | File systems and operations |
+| 5 | [IO Management](Reference%20Books/IO%20Management.pdf) | Input/Output handling |
+| 6 | [Job Sequencing](Reference%20Books/Job%20Sequencing%20With%20Deadline%20Problem.pdf) | Deadline scheduling problems |
+| 7 | [OS Question Bank](Reference%20Books/OS%20Question%20Bank.png) | Practice questions for exam preparation |
+| 8 | [OS VIVA](Reference%20Books/OS%20VIVA.png) | Oral examination preparation guide |
+| 9 | [Rough Work](Reference%20Books/Rough%20work.pdf) | Draft notes and calculations |
+| 10 | [SEM - IV Books List](Reference%20Books/SEM%20-%20IV%20Books.png) | Curated book recommendations |
+
+---
+
+### The Wall
+
+<div align="center">
+
+**Collaborative Study Notes**
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/Amey-Thakur">
+<img src="https://github.com/Amey-Thakur.png" alt="Amey Thakur" width="150" height="150"/><br/>
+<b>Amey Thakur</b>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/msatmod">
+<img src="THE%20WALL/Mega_Satish.png" alt="Mega Satish" width="150" height="150"/><br/>
+<b>Mega Satish</b>
+</a>
+</td>
+</tr>
+</table>
+
+**Notes Authored by [MEGA SATISH](https://github.com/msatmod)**
+
+</div>
+
+Comprehensive chapter-wise notes curated by Mega Satish:
+
+| Chapter | Resource | Topics Covered |
 |:-:|:---|:---|
 | 1 | [OS Chapter - 1](THE%20WALL/OS_Chapter-1.pdf) | Introduction to Operating Systems |
 | 2 | [OS Chapter - 2](THE%20WALL/OS_Chapter-2.pdf) | Process Management |
@@ -77,20 +116,6 @@ Detailed handwritten notes covering the entire syllabus, curated by [Mega Satish
 | 5 | [OS Chapter - 5](THE%20WALL/OS_Chapter-5.pdf) | Memory Management |
 | 6 | [OS Chapter - 6](THE%20WALL/OS_Chapter-6.pdf) | File Systems and I/O |
 
-<br>
-
-<div align="center">
-
-  **Terna Engineering College | Computer Engineering | Batch of 2022**
-
-  | <img src="https://github.com/Amey-Thakur.png" width="120" alt="Amey Thakur"> | <img src="THE WALL/Mega_Satish.png" width="120" alt="Mega Satish"> |
-  | :---: | :---: |
-  | [**Amey Thakur**](https://github.com/Amey-Thakur) | [**Mega Satish**](https://github.com/msatmod) |
-
-</div>
-
-<br>
-
 > 💝 **Special Thanks**: A heartfelt thank you to Mega for her constant support, patience, and clarity throughout this journey. Learning alongside her made a real difference, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
 
 > [!NOTE]
@@ -98,122 +123,178 @@ Detailed handwritten notes covering the entire syllabus, curated by [Mega Satish
 
 ---
 
-<!-- PREPARATION -->
-## ✏️ Personal Preparation
+### Personal Preparation
 
-Resources organizing the study path and exam preparation:
+Study materials and planning resources for effective exam preparation:
 
-| Material | Link |
+| Resource | Description |
 |:---|:---|
-| **Syllabus Overview** | [View](My%20Preparation/Syllabus.png) |
-| **Key Modules** | [View](My%20Preparation/Modules.png) |
-| **Study Blueprint** | [View](Blueprint%20(OS).png) |
-| **Test Paper** | [View](OS_Test_B-50.pdf) |
+| 📝 [Syllabus Breakdown](My%20Preparation/Syllabus.png) | Detailed module-wise syllabus notes |
+| 📊 [Module Planning](My%20Preparation/Modules.png) | Topic organization and study schedule |
+| 🎯 [Examination Blueprint](Blueprint%20(OS).png) | Question paper pattern and marking scheme |
+| 📄 [OS Test](OS_Test_B-50.pdf) | Practice test paper |
 
 ---
 
-<!-- ASSIGNMENTS -->
-## 📄 Assignments
+### Assignments
 
-| Assignment | Description |
+Academic assignments for comprehensive learning and practice:
+
+<div align="center">
+
+**[📂 Browse All Assignments](Assignments/)**
+
+</div>
+
+| Resource | Description |
 |:---|:---|
-| **Assignment 2** | Process scheduling and management concepts |
-| **Assignment 3** | Memory management and synchronization |
-
-> 👉 **[View All Assignments](Assignments/)**
+| 📝 [Assignment 2](Assignments/OS_Assignment-2.pdf) | Process scheduling and management concepts |
+| 📝 [Assignment 3](Assignments/OS_Assignment-3.pdf) | Memory management and synchronization |
 
 ---
 
-<!-- LAB -->
-## 🧪 Operating System Laboratory
+<!-- LABORATORY -->
+## Operating System Laboratory
 
-Practical experiments focusing on System Calls and CPU Scheduling.
+The laboratory component (CSL404) focuses on the practical implementation of these concepts, involving shell scripting, system calls, and simulation of CPU scheduling algorithms using C and Python.
 
-| Exp | Topic | Description | Code |
-|:-:|:---|:---|:-:|
-| 4 | **System Calls** | File handling operations (Create, Read, Write) in C | [View](Operating%20System%20Lab/Experiment-4/File_Handling_System_Calls.c) |
-| 5 | **CPU Scheduling** | Implementation of FCFS and SJF algorithms in Python | [View](Operating%20System%20Lab/README.md#-experiment-5-cpu-scheduling-algorithms) |
+<div align="center">
+
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-2-brightgreen.svg)](Operating%20System%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-C%20%7C%20Python-blue.svg)](Operating%20System%20Lab/)
+  [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-orange.svg)](Operating%20System%20Lab/PRACTICAL%20LAB.pdf)
+
+  **[📂 Browse All Experiments](Operating%20System%20Lab/)**
+
+</div>
+
+### Laboratory Experiments
+
+| Experiment | Topic | Algorithm | View |
+|:---|:---|:---|:-:|
+| **Experiment 4** | System Calls | File Handling Operations | [📂](Operating%20System%20Lab/Experiment-4/) |
+| **Experiment 5** | CPU Scheduling | FCFS & SJF | [📂](Operating%20System%20Lab/Experiment-5/) |
+
+### Program Details
 
 <details>
-<summary><b>Click to expand experiment details</b></summary>
+<summary><strong>📁 Experiment 4: File Handling System Calls (1 Program)</strong></summary>
 
-### Experiment 4: File Handling
-- Implementation of `fopen`, `fprintf`, `fscanf`, and `fclose`.
-- Understanding basic file I/O flow in C.
-
-### Experiment 5: CPU Scheduling
-- **FCFS (First-Come, First-Served)**: Queue-based approach.
-- **SJF (Shortest Job First)**: Optimal time-based approach (Non-preemptive).
+| Program | Algorithm | Description | Code |
+|:---|:---|:---|:-:|
+| `File_Handling_System_Calls.c` | File I/O | Create, open, read, and write operations | [View](Operating%20System%20Lab/Experiment-4/File_Handling_System_Calls.c) |
 
 </details>
 
-> 👉 **[Visit Laboratory Folder](Operating%20System%20Lab/)**
+<details>
+<summary><strong>⏱️ Experiment 5: CPU Scheduling Algorithms (2 Programs)</strong></summary>
+
+| Program | Algorithm | Description | Code |
+|:---|:---|:---|:-:|
+| `FCFS_Scheduling_Algorithm.py` | FCFS | First-Come, First-Served scheduling | [View](Operating%20System%20Lab/Experiment-5/FCFS_Scheduling_Algorithm.py) |
+| `SJF_Scheduling_Algorithm.py` | SJF | Shortest Job First scheduling (Non-preemptive) | [View](Operating%20System%20Lab/Experiment-5/SJF_Scheduling_Algorithm.py) |
+
+</details>
+
+### Laboratory Documentation
+
+| Resource | Description |
+|:---|:---|
+| 🧪 [Laboratory Journal](Operating%20System%20Lab/PRACTICAL%20LAB.pdf) | Complete record of experiments with theory, diagrams, and analysis |
 
 ---
 
 <!-- PROJECT -->
-## 💻 Operating System Project
+## Operating System Project
 
 <div align="center">
 
   [![Project](https://img.shields.io/badge/Project-Interest%20Calculator-purple.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
-  [![Language](https://img.shields.io/badge/Language-Shell%20Script-green.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
+  [![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
+  [![Technology](https://img.shields.io/badge/Technology-Shell%20Script-blue.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
+  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
+
+  ### 💻 Compound and Simple Interest Calculator
+
+  **A robust command-line utility for financial calculations**
 
 </div>
 
-> **[Compound and Simple Interest Calculator](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)** - A Shell Script utility.
+<div align="center">
 
-A robust command-line tool written in Shell Script to calculate simple and compound interest, entered parameters, and financial summaries. This project demonstrates proficiency in shell scripting and mathematical computations in a Linux environment.
+  ### 👥 Project Authors
+
+  **Terna Engineering College | Computer Engineering | Batch of 2022**
+
+  | <img src="https://github.com/Amey-Thakur.png" width="120" alt="Amey Thakur"> |
+  | :---: |
+  | [**Amey Thakur**](https://github.com/Amey-Thakur) |
+
+</div>
+
+### 📖 Project Overview
+
+A robust command-line tool written in Shell Script to calculate simple and compound interest, entered parameters, and financial summaries. This project demonstrates proficiency in shell scripting and mathematical computations in a Linux environment. It highlights the use of shell commands for input/output operations, arithmetic calculations, and logic control flow.
+
+### 🔗 Resources
 
 | Resource | Description |
 |:---|:---|
-| 📜 **[Source Code](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/blob/main/Simple_%26_Compound_Interest_Calculator.sh)** | The complete shell script implementation |
-| 📊 **[Project Report](Operating%20System%20Lab/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)** | Detailed documentation of logic and execution |
+| 📜 [Project Repository](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR) | Complete source code and documentation |
+| 📊 [Project Report](Operating%20System%20Lab/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf) | Detailed documentation of logic and execution |
 
 ---
 
 <!-- SYLLABUS -->
-## 📋 Syllabus
+## Syllabus
 
-> 📄 **[Official CBCGS Syllabus](SE-Comps_CBCGS_Syllabus.pdf)**  
-> University of Mumbai Second Year Computer Engineering Syllabus (Rev-2019 'C' Scheme).
+> 📋 **[Official CBCGS Syllabus](SE-Comps_CBCGS_Syllabus.pdf)**  
+> Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Operating System and Operating System Lab.
 
 ---
 
 <!-- USAGE -->
-## 📘 Usage Guidelines
+## Usage Guidelines
 
-This repository is open for academic referencing and study purposes.
-- **Students**: Use the notes and codes to understand core OS concepts.
-- **Faculty**: Reference for lab manual structures and experiment lists.
+This repository is openly shared to support learning and knowledge exchange across the academic community.
 
-All code is provided "as is" for educational use.
+**For Students**  
+Use these resources as reference materials for understanding concepts, reviewing OS algorithms, and preparing for examinations. All content is organized for self-paced learning.
+
+**For Educators**  
+These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
 
 ---
 
 <!-- LICENSE -->
-## 📜 License
+## License
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License][cc-by].
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
 
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+**Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
 ---
 
 <!-- ABOUT -->
-## ℹ️ About This Repository
+## About This Repository
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
 **Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-### 🙏 Acknowledgments
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Operating System & Operating System Lab.
 
-Grateful acknowledgment to [Mega Satish](https://github.com/msatmod) for her exceptional contribution to this repository through "THE WALL" - comprehensive chapter-wise notes that became an invaluable resource for understanding complex graphics concepts. Her constant support, patience, and clarity throughout this journey made a real difference. Learning alongside her was transformative, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+
+### Acknowledgments
+
+Grateful acknowledgment to [Mega Satish](https://github.com/msatmod) for her exceptional contribution to this repository through "THE WALL" - comprehensive chapter-wise notes that became an invaluable resource for understanding complex OS concepts. Her constant support, patience, and clarity throughout this journey made a real difference. Learning alongside her was transformative, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
+
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Operating Systems. Their clear teaching and continued support helped develop a strong understanding of system internals.
 
 Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
@@ -222,6 +303,22 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <!-- FOOTER -->
 <div align="center">
 
-  **[⬆ Back to Top](#operating-system--operating-system-lab)** &nbsp;·&nbsp; **[📖 Overview](#-overview)** &nbsp;·&nbsp; **[📂 Contents](#-repository-contents)** &nbsp;·&nbsp; **[📚 Books](#-reference-books)** &nbsp;·&nbsp; **[📝 The Wall](#-the-wall)** &nbsp;·&nbsp; **[📄 Assignments](#-assignments)** &nbsp;·&nbsp; **[🧪 Laboratory](#-operating-system-laboratory)** &nbsp;·&nbsp; **[💻 Project](#-operating-system-project)**
+  **[⬆ Back to Top](#operating-system-and-operating-system-lab)** &nbsp;·&nbsp; **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[📝 The Wall](#the-wall)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🧪 Laboratory](#operating-system-laboratory)** &nbsp;·&nbsp; **[💻 Project](#operating-system-project)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏 Acknowledgments](#acknowledgments)**
+
+  <br>
+
+  **[🧪 Operating System Laboratory](Operating%20System%20Lab/)** &nbsp;·&nbsp; **[📄 Assignments](Assignments/)** &nbsp;·&nbsp; **[💻 Interest Calculator Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+  **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
