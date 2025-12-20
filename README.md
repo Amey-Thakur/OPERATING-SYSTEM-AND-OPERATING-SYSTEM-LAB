@@ -3,7 +3,7 @@
  👍🏻 CSC405: OS & CSL404: OS LAB [SEMESTER IV]
 
 ---
- 
+
  - [X] **[Syllabus](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**
  
  - [X] **OS - [Reference Books](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/tree/main/Reference%20Books)**
@@ -38,18 +38,18 @@
 
 ## Assignments
  
- - OS [Assignment - 1](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Assignments/OS_Assignment-2.pdf)
+ - OS [Assignment - 2](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Assignments/OS_Assignment-2.pdf)
  
- - OS [Assignment - 2](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Assignments/OS_Assignment-3.pdf)
+ - OS [Assignment - 3](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Assignments/OS_Assignment-3.pdf)
  
  
 ## Operating System Lab
  
- >OS Lab [Experiments](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/OS%20Lab/PRACTICAL%20LAB.pdf) - JOURNAL
+ >OS Lab [Experiments](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Operating%20System%20Lab/PRACTICAL%20LAB.pdf) - JOURNAL
  
- - OS Lab Experiment 4 - [SOURCE CODE](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/OS%20Lab/Experiment-4/Exp4.c)
+ - OS Lab Experiment 4 - [SOURCE CODE](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Operating%20System%20Lab/Experiment-4/Exp4.c)
  
- - OS Lab Experiment 5 - [FCFS](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/OS%20Lab/Experiment-5/FCFS.py) & [SJF](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/OS%20Lab/Experiment-5/SJF.py)
+ - OS Lab Experiment 5 - [FCFS](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Operating%20System%20Lab/Experiment-5/FCFS.py) & [SJF](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Operating%20System%20Lab/Experiment-5/SJF.py)
  
 
 ## Operating System Project
@@ -58,7 +58,7 @@
   
  - **[Shell Script to calculate simple and compound interest](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/blob/main/Simple_%26_Compound_Interest_Calculator.sh) - SOURCE CODE**
  
- - **[Report](https://github.com/Amey-Thakur/OPERATING-SYSTEM-LAB/blob/main/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)**
+ - **[Report](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)**
 
 ## Test
  
