@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f6/University_of_Mumbai_logo.png" width="150" alt="University of Mumbai Logo">
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
 
   # Operating System & Operating System Lab
 
