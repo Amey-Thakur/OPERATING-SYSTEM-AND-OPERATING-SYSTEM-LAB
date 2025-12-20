@@ -66,7 +66,7 @@ This collection includes **10 comprehensive reference materials** covering all m
 | # | Resource | Focus Area |
 |:-:|:---|:---|
 | 1 | [OS Techmax](Reference%20Books/OS%20Techmax.pdf) | Complete syllabus coverage |
-| 2 | [OS Notes](Reference%20Books/OS_Notes.pdf) | Comprehensive lecture notes |
+| 2 | [OS Notes](Reference%20Books/OS_Notes.pdf) | Comprehensive lecture notes by Amey Thakur |
 | 3 | [CPU Scheduling](Reference%20Books/CPU%20Scheduling%20Algorithms.pdf) | Process scheduling algorithms |
 | 4 | [File Management](Reference%20Books/File%20Management.pdf) | File systems and operations |
 | 5 | [IO Management](Reference%20Books/IO%20Management.pdf) | Input/Output handling |
