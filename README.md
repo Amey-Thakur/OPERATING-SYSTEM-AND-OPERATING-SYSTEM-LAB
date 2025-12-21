@@ -275,7 +275,7 @@ A robust command-line tool written in Shell Script to calculate simple and compo
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Operating System and Operating System Lab.
 
 > [!IMPORTANT]
-> Always verify the latest syllabus from the [University of Mumbai](https://mu.ac.in/) official website, as curriculum updates may occur periodically.
+> Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
 
 ---
 
