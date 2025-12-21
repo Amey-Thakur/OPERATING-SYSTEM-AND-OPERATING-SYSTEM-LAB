@@ -176,7 +176,8 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 <div align="center">
 
   [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-2-yellowgreen.svg)](Operating%20System%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-C%20%7C%20Python-blueviolet.svg)](Operating%20System%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-C-blueviolet.svg)](Operating%20System%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-Python-blue.svg)](Operating%20System%20Lab/)
   [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-brightgreen.svg)](Operating%20System%20Lab/PRACTICAL%20LAB.pdf)
 
   **[📂 Browse All Experiments](Operating%20System%20Lab/)**
