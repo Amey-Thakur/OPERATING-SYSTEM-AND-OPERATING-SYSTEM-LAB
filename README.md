@@ -231,14 +231,14 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
 <div align="center">
 
+  ### 💻 Compound and Simple Interest Calculator
+
+  **A robust command-line utility for financial calculations**
+
   [![Project](https://img.shields.io/badge/Project-Interest%20Calculator-purple.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
   [![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
   [![Technology](https://img.shields.io/badge/Technology-Shell%20Script-blue.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
   [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
-
-  ### 💻 Compound and Simple Interest Calculator
-
-  **A robust command-line utility for financial calculations**
 
 </div>
 
