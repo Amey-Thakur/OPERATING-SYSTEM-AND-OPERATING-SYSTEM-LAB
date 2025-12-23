@@ -160,9 +160,9 @@ Academic assignments for comprehensive learning and practice:
 
 Mid-semester practice assessment:
 
-| Test | Date | Time | Class | Link |
-|:---|:---:|:---:|:---:|:---:|
-| **Practice Test OS** | July 5, 2020 | 10:00 AM - 11:00 AM | SE B-50 | [View](OS_Test_B-50.pdf) |
+| # | Test | Date | Time | Class |
+|:-:|:---|:-:|:-:|:-:|
+| 1 | [**Practice Test OS**](OS_Test_B-50.pdf) | July 5, 2020 | 10:00 AM - 11:00 AM | SE B-50 |
 
 ---
 
