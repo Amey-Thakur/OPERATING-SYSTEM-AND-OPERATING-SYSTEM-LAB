@@ -134,12 +134,12 @@ Comprehensive chapter-wise notes curated by Mega Satish, covering all essential 
 
 Study materials and planning resources for effective exam preparation:
 
-| Resource | Description |
-|:---|:---|
-| [OS Notes](Reference%20Books/OS_Notes.pdf) | Comprehensive lecture notes by Amey Thakur |
-| [Syllabus Breakdown](My%20Preparation/Syllabus.png) | Detailed module-wise syllabus notes |
-| [Module Planning](My%20Preparation/Modules.png) | Topic organization and study schedule |
-| [Examination Blueprint](Blueprint%20(OS).png) | Question paper pattern and marking scheme |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [OS Notes](Reference%20Books/OS_Notes.pdf) | Comprehensive lecture notes by Amey Thakur |
+| 2 | [Syllabus Breakdown](My%20Preparation/Syllabus.png) | Detailed module-wise syllabus notes |
+| 3 | [Module Planning](My%20Preparation/Modules.png) | Topic organization and study schedule |
+| 4 | [Examination Blueprint](Blueprint%20(OS).png) | Question paper pattern and marking scheme |
 
 ---
 
