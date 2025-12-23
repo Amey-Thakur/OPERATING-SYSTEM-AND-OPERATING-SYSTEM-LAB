@@ -217,10 +217,10 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
 ### Laboratory Documentation
 
-| Resource | Description |
-|:---|:---|
-| [Laboratory Journal](Operating%20System%20Lab/PRACTICAL%20LAB.pdf) | Complete record of experiments with theory, diagrams, and analysis |
-| [Lab README](Operating%20System%20Lab/) | Detailed navigation guide with program descriptions |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Laboratory Journal](Operating%20System%20Lab/PRACTICAL%20LAB.pdf) | Complete record of experiments with theory, diagrams, and analysis |
+| 2 | [Lab README](Operating%20System%20Lab/) | Detailed navigation guide with program descriptions |
 
 ---
 
