@@ -128,7 +128,7 @@ python filename.py
   <!-- Footer Navigation -->
   **[↑ Back to Top](#operating-system-lab)**
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-file-handling-system-calls-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-cpu-scheduling-algorithms-2-programs)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Lab Manual](#lab-manual)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-file-handling-system-calls-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-cpu-scheduling-algorithms-2-programs)**
 
   <br>
 
