@@ -22,7 +22,7 @@
   ---
 
   <!-- Navigation Links -->
-  **[Experiment 4](#experiment-4-file-handling-system-calls-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-cpu-scheduling-algorithms-2-programs)** &nbsp;·&nbsp; **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-file-handling-system-calls-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-cpu-scheduling-algorithms-2-programs)**
 
 </div>
 
@@ -33,29 +33,6 @@
 
 > [!WARNING]
 > **Environment Requirements**: C programs require **GCC Compiler** for compilation. Python programs require **Python 3.x**. Ensure your development environment is properly configured before running the experiments.
-
----
-
-<!-- =========================================================================================
-                                     EXPERIMENT 4
-     ========================================================================================= -->
-## Experiment 4: File Handling System Calls (1 Program)
-
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [File_Handling_System_Calls.c](Experiment-4/File_Handling_System_Calls.c) | File I/O | Create, open, read, and write operations using system calls |
-
----
-
-<!-- =========================================================================================
-                                     EXPERIMENT 5
-     ========================================================================================= -->
-## Experiment 5: CPU Scheduling Algorithms (2 Programs)
-
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [FCFS_Scheduling_Algorithm.py](Experiment-5/FCFS_Scheduling_Algorithm.py) | First-Come, First-Served | Simplest non-preemptive scheduling |
-| 2 | [SJF_Scheduling_Algorithm.py](Experiment-5/SJF_Scheduling_Algorithm.py) | Shortest Job First | Optimization for minimum waiting time |
 
 ---
 
@@ -99,6 +76,29 @@ python filename.py
 ---
 
 <!-- =========================================================================================
+                                     EXPERIMENT 4
+     ========================================================================================= -->
+## Experiment 4: File Handling System Calls (1 Program)
+
+| # | Program | Algorithm | Description |
+|:-:|:---|:---|:---|
+| 1 | [File_Handling_System_Calls.c](Experiment-4/File_Handling_System_Calls.c) | File I/O | Create, open, read, and write operations using system calls |
+
+---
+
+<!-- =========================================================================================
+                                     EXPERIMENT 5
+     ========================================================================================= -->
+## Experiment 5: CPU Scheduling Algorithms (2 Programs)
+
+| # | Program | Algorithm | Description |
+|:-:|:---|:---|:---|
+| 1 | [FCFS_Scheduling_Algorithm.py](Experiment-5/FCFS_Scheduling_Algorithm.py) | First-Come, First-Served | Simplest non-preemptive scheduling |
+| 2 | [SJF_Scheduling_Algorithm.py](Experiment-5/SJF_Scheduling_Algorithm.py) | Shortest Job First | Optimization for minimum waiting time |
+
+
+
+<!-- =========================================================================================
                                      LAB MANUAL
      ========================================================================================= -->
 ## Lab Manual
@@ -117,7 +117,7 @@ python filename.py
   <!-- Footer Navigation -->
   **[⬆ Back to Top](#operating-system-lab)**
 
-  **[Experiment 4](#experiment-4-file-handling-system-calls-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-cpu-scheduling-algorithms-2-programs)** &nbsp;·&nbsp; **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-file-handling-system-calls-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-cpu-scheduling-algorithms-2-programs)**
 
   <br>
 
