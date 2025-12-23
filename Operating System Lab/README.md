@@ -22,7 +22,7 @@
   ---
 
   <!-- Navigation Links -->
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-file-handling-system-calls-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-cpu-scheduling-algorithms-2-programs)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Lab Manual](#lab-manual)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-file-handling-system-calls-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-cpu-scheduling-algorithms-2-programs)**
 
 </div>
 
@@ -72,6 +72,17 @@ python filename.py
 **Process Management:**
 - Move to **Experiment 5** to understand how the CPU decides which process to run
 - Compare **FCFS** (Queue based) vs **SJF** (Time based) performance
+
+---
+
+<!-- =========================================================================================
+                                     LAB MANUAL
+     ========================================================================================= -->
+## Lab Manual
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [PRACTICAL LAB.pdf](PRACTICAL%20LAB.pdf) | Complete laboratory manual with all experiments |
 
 ---
 
