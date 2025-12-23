@@ -231,7 +231,7 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
 <div align="center">
 
-  ### Compound and Simple Interest Calculator
+  ### 💻 Compound and Simple Interest Calculator
 
   **A robust command-line utility for financial calculations**
 
