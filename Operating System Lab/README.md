@@ -22,7 +22,7 @@
   ---
 
   <!-- Navigation Links -->
-  **[📁 Experiment 4](#-experiment-4-file-handling-system-calls-1-program)** &nbsp;·&nbsp; **[⏱️ Experiment 5](#-experiment-5-cpu-scheduling-algorithms-2-programs)** &nbsp;·&nbsp; **[🚀 How to Use](#-how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#-learning-path)**
+  **[Experiment 4](#experiment-4-file-handling-system-calls-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-cpu-scheduling-algorithms-2-programs)** &nbsp;·&nbsp; **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)**
 
 </div>
 
@@ -39,10 +39,10 @@
 <!-- =========================================================================================
                                      EXPERIMENT 4
      ========================================================================================= -->
-## 📁 Experiment 4: File Handling System Calls (1 Program)
+## Experiment 4: File Handling System Calls (1 Program)
 
 | # | Program | Algorithm | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [File_Handling_System_Calls.c](Experiment-4/File_Handling_System_Calls.c) | File I/O | Create, open, read, and write operations using system calls |
 
 ---
@@ -50,10 +50,10 @@
 <!-- =========================================================================================
                                      EXPERIMENT 5
      ========================================================================================= -->
-## ⏱️ Experiment 5: CPU Scheduling Algorithms (2 Programs)
+## Experiment 5: CPU Scheduling Algorithms (2 Programs)
 
 | # | Program | Algorithm | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [FCFS_Scheduling_Algorithm.py](Experiment-5/FCFS_Scheduling_Algorithm.py) | First-Come, First-Served | Simplest non-preemptive scheduling |
 | 2 | [SJF_Scheduling_Algorithm.py](Experiment-5/SJF_Scheduling_Algorithm.py) | Shortest Job First | Optimization for minimum waiting time |
 
@@ -62,7 +62,7 @@
 <!-- =========================================================================================
                                      HOW TO USE
      ========================================================================================= -->
-## 🚀 How to Use
+## How to Use
 
 ### Running C Programs (Experiment 4)
 
@@ -86,7 +86,7 @@ python filename.py
 <!-- =========================================================================================
                                      LEARNING PATH
      ========================================================================================= -->
-## 📖 Learning Path
+## Learning Path
 
 **System Fundamentals:**
 - Start with **Experiment 4** to understand how OS interacts with files at a low level
@@ -101,11 +101,11 @@ python filename.py
 <!-- =========================================================================================
                                      LAB MANUAL
      ========================================================================================= -->
-## 📖 Lab Manual
+## Lab Manual
 
-| Resource | Description |
-|:---|:---|
-| [PRACTICAL LAB.pdf](PRACTICAL%20LAB.pdf) | Complete laboratory manual with all experiments |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [PRACTICAL LAB.pdf](PRACTICAL%20LAB.pdf) | Complete laboratory manual with all experiments |
 
 ---
 
@@ -117,7 +117,7 @@ python filename.py
   <!-- Footer Navigation -->
   **[⬆ Back to Top](#operating-system-lab)**
 
-  **[📁 Experiment 4](#-experiment-4-file-handling-system-calls-1-program)** &nbsp;·&nbsp; **[⏱️ Experiment 5](#-experiment-5-cpu-scheduling-algorithms-2-programs)** &nbsp;·&nbsp; **[🚀 How to Use](#-how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#-learning-path)**
+  **[Experiment 4](#experiment-4-file-handling-system-calls-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-cpu-scheduling-algorithms-2-programs)** &nbsp;·&nbsp; **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)**
 
   <br>
 
