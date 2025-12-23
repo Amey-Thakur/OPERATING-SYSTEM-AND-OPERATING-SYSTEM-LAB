@@ -189,10 +189,10 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
 ### Laboratory Experiments
 
-| Experiment | Topic | Algorithm | View |
-|:---|:---|:---|:-:|
-| **Experiment 4** | System Calls | File Handling Operations | [View](Operating%20System%20Lab/Experiment-4/) |
-| **Experiment 5** | CPU Scheduling | FCFS & SJF | [View](Operating%20System%20Lab/Experiment-5/) |
+| # | Topic | Algorithm |
+|:-:|:---|:---|
+| [**4**](Operating%20System%20Lab/Experiment-4/) | System Calls | File Handling Operations |
+| [**5**](Operating%20System%20Lab/Experiment-5/) | CPU Scheduling | FCFS & SJF |
 
 ### Program Details
 
