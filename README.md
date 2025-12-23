@@ -18,7 +18,7 @@
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [👫🏻 The Wall](#the-wall) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [📝 Practice Test](#practice-test) &nbsp;·&nbsp; [🧪 Laboratory](#operating-system-laboratory) &nbsp;·&nbsp; [💻 Project](#operating-system-project) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [The Wall](#the-wall) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Practice Test](#practice-test) &nbsp;·&nbsp; [Laboratory](#operating-system-laboratory) &nbsp;·&nbsp; [Project](#operating-system-project) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -136,10 +136,10 @@ Study materials and planning resources for effective exam preparation:
 
 | Resource | Description |
 |:---|:---|
-| 📝 [OS Notes](Reference%20Books/OS_Notes.pdf) | Comprehensive lecture notes by Amey Thakur |
-| 📝 [Syllabus Breakdown](My%20Preparation/Syllabus.png) | Detailed module-wise syllabus notes |
-| 📊 [Module Planning](My%20Preparation/Modules.png) | Topic organization and study schedule |
-| 🎯 [Examination Blueprint](Blueprint%20(OS).png) | Question paper pattern and marking scheme |
+| [OS Notes](Reference%20Books/OS_Notes.pdf) | Comprehensive lecture notes by Amey Thakur |
+| [Syllabus Breakdown](My%20Preparation/Syllabus.png) | Detailed module-wise syllabus notes |
+| [Module Planning](My%20Preparation/Modules.png) | Topic organization and study schedule |
+| [Examination Blueprint](Blueprint%20(OS).png) | Question paper pattern and marking scheme |
 
 ---
 
@@ -149,8 +149,8 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Date | Description | Link |
 |:-:|:---|:---:|:---|:---:|
-| 1 | **Assignment 2** | March 2, 2020 | Process scheduling and management concepts | [📄 View](Assignments/OS_Assignment-2.pdf) |
-| 2 | **Assignment 3** | March 23, 2020 | Memory management and synchronization | [📄 View](Assignments/OS_Assignment-3.pdf) |
+| 1 | **Assignment 2** | March 2, 2020 | Process scheduling and management concepts | [View](Assignments/OS_Assignment-2.pdf) |
+| 2 | **Assignment 3** | March 23, 2020 | Memory management and synchronization | [View](Assignments/OS_Assignment-3.pdf) |
 
 **Topics Covered**: Process Scheduling (FCFS, SJF, Round Robin, Priority Scheduling) · Synchronization (Critical section problem, Semaphores, Monitors) · Memory Management (Paging, Segmentation, Virtual Memory) · Deadlocks (Prevention, Avoidance, Detection, Recovery)
 
@@ -162,7 +162,7 @@ Mid-semester practice assessment:
 
 | Test | Date | Time | Class | Link |
 |:---|:---:|:---:|:---:|:---:|
-| **Practice Test OS** | July 5, 2020 | 10:00 AM - 11:00 AM | SE B-50 | [📄 View](OS_Test_B-50.pdf) |
+| **Practice Test OS** | July 5, 2020 | 10:00 AM - 11:00 AM | SE B-50 | [View](OS_Test_B-50.pdf) |
 
 ---
 
@@ -191,13 +191,13 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
 | Experiment | Topic | Algorithm | View |
 |:---|:---|:---|:-:|
-| **Experiment 4** | System Calls | File Handling Operations | [📂](Operating%20System%20Lab/Experiment-4/) |
-| **Experiment 5** | CPU Scheduling | FCFS & SJF | [📂](Operating%20System%20Lab/Experiment-5/) |
+| **Experiment 4** | System Calls | File Handling Operations | [View](Operating%20System%20Lab/Experiment-4/) |
+| **Experiment 5** | CPU Scheduling | FCFS & SJF | [View](Operating%20System%20Lab/Experiment-5/) |
 
 ### Program Details
 
 <details>
-<summary><strong>📁 Experiment 4: File Handling System Calls (1 Program)</strong></summary>
+<summary><strong>Experiment 4: File Handling System Calls (1 Program)</strong></summary>
 
 | Program | Algorithm | Description | Code |
 |:---|:---|:---|:-:|
@@ -206,7 +206,7 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 </details>
 
 <details>
-<summary><strong>⏱️ Experiment 5: CPU Scheduling Algorithms (2 Programs)</strong></summary>
+<summary><strong>Experiment 5: CPU Scheduling Algorithms (2 Programs)</strong></summary>
 
 | Program | Algorithm | Description | Code |
 |:---|:---|:---|:-:|
@@ -219,8 +219,8 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
 | Resource | Description |
 |:---|:---|
-| 🧪 [Laboratory Journal](Operating%20System%20Lab/PRACTICAL%20LAB.pdf) | Complete record of experiments with theory, diagrams, and analysis |
-| 📖 [Lab README](Operating%20System%20Lab/) | Detailed navigation guide with program descriptions |
+| [Laboratory Journal](Operating%20System%20Lab/PRACTICAL%20LAB.pdf) | Complete record of experiments with theory, diagrams, and analysis |
+| [Lab README](Operating%20System%20Lab/) | Detailed navigation guide with program descriptions |
 
 ---
 
@@ -231,7 +231,7 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
 <div align="center">
 
-  ### 💻 Compound and Simple Interest Calculator
+  ### Compound and Simple Interest Calculator
 
   **A robust command-line utility for financial calculations**
 
@@ -257,12 +257,12 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
 A robust command-line tool written in Shell Script to calculate simple and compound interest, entered parameters, and financial summaries. This project demonstrates proficiency in shell scripting and mathematical computations in a Linux environment. It highlights the use of shell commands for input/output operations, arithmetic calculations, and logic control flow.
 
-### 🔗 Resources
+### Resources
 
 | Resource | Description |
 |:---|:---|
-| 📜 [Project Repository](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR) | Complete source code and documentation |
-| 📊 [Project Report](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/blob/main/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf) | Detailed documentation of logic and execution |
+| [Project Repository](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR) | Complete source code and documentation |
+| [Project Report](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/blob/main/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf) | Detailed documentation of logic and execution |
 
 ---
 
@@ -271,7 +271,7 @@ A robust command-line tool written in Shell Script to calculate simple and compo
      ========================================================================================= -->
 ## Syllabus
 
-> 📋 **[Official CBCGS Syllabus](SE-Comps_CBCGS_Syllabus.pdf)**  
+> **[Official CBCGS Syllabus](SE-Comps_CBCGS_Syllabus.pdf)**  
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Operating System and Operating System Lab.
 
 > [!IMPORTANT]
@@ -343,11 +343,11 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   <!-- Footer Navigation -->
   **[⬆ Back to Top](#operating-system-and-operating-system-lab)**
 
-  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[👫🏻 The Wall](#the-wall)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[📝 Practice Test](#practice-test)** &nbsp;·&nbsp; **[🧪 Laboratory](#operating-system-laboratory)** &nbsp;·&nbsp; **[💻 Project](#operating-system-project)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[The Wall](#the-wall)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Practice Test](#practice-test)** &nbsp;·&nbsp; **[Laboratory](#operating-system-laboratory)** &nbsp;·&nbsp; **[Project](#operating-system-project)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
   <br>
 
-  **[🧪 Operating System Laboratory](Operating%20System%20Lab/)** &nbsp;·&nbsp; **[💻 Interest Calculator Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
+  **[Operating System Laboratory](Operating%20System%20Lab/)** &nbsp;·&nbsp; **[Interest Calculator Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
 
 </div>
 
@@ -355,7 +355,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
 <div align="center">
 
-  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+  ### [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
   **Computer Engineering (B.E.) - University of Mumbai**
 
