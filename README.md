@@ -147,10 +147,10 @@ Study materials and planning resources for effective exam preparation:
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Date | Description | Link |
-|:-:|:---|:---:|:---|:---:|
-| 1 | **Assignment 2** | March 2, 2020 | Process scheduling and management concepts | [View](Assignments/OS_Assignment-2.pdf) |
-| 2 | **Assignment 3** | March 23, 2020 | Memory management and synchronization | [View](Assignments/OS_Assignment-3.pdf) |
+| # | Assignment | Date | Description |
+|:-:|:---|:-:|:---|
+| 1 | [**Assignment 2**](Assignments/OS_Assignment-2.pdf) | March 2, 2020 | Process scheduling and management concepts |
+| 2 | [**Assignment 3**](Assignments/OS_Assignment-3.pdf) | March 23, 2020 | Memory management and synchronization |
 
 **Topics Covered**: Process Scheduling (FCFS, SJF, Round Robin, Priority Scheduling) · Synchronization (Critical section problem, Semaphores, Monitors) · Memory Management (Paging, Segmentation, Virtual Memory) · Deadlocks (Prevention, Avoidance, Detection, Recovery)
 
