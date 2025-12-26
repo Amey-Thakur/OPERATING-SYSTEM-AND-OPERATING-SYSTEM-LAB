@@ -123,7 +123,7 @@ python filename.py
 
   <br>
 
-  **[🏠 Back to Main Repository](../)**
+  🏠 **[Back to Main Repository](../)**
 
 </div>
 
