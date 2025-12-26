@@ -117,9 +117,9 @@ python filename.py
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#operating-system-lab)**
+  [↑ Back to Top](#operating-system-lab)
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Lab Manual](#lab-manual)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-file-handling-system-calls-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-cpu-scheduling-algorithms-2-programs)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Lab Manual](#lab-manual) &nbsp;·&nbsp; [Experiment 4](#experiment-4-file-handling-system-calls-1-program) &nbsp;·&nbsp; [Experiment 5](#experiment-5-cpu-scheduling-algorithms-2-programs)
 
   <br>
 
@@ -131,7 +131,7 @@ python filename.py
 
 <div align="center">
 
-  ### [Operating System and Operating System Lab](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB)
+  ### [Operating System and Operating System Lab](../)
 
   **CSC405 & CSL404 · Semester IV · Computer Engineering**
 
