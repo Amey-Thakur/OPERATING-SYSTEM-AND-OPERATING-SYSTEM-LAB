@@ -80,9 +80,9 @@ python filename.py
      ========================================================================================= -->
 ## Lab Manual
 
-| # | Resource | Description |
-|:-:|:---|:---|
-| 1 | [PRACTICAL LAB.pdf](PRACTICAL%20LAB.pdf) | Complete laboratory manual with all experiments |
+| # | Resource | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Practical Lab (PDF) | Complete laboratory manual with all experiments | [View](PRACTICAL%20LAB.pdf) |
 
 ---
 
@@ -91,9 +91,9 @@ python filename.py
      ========================================================================================= -->
 ## Experiment 4: File Handling System Calls (1 Program)
 
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [File_Handling_System_Calls.c](Experiment-4/File_Handling_System_Calls.c) | File I/O | Create, open, read, and write operations using system calls |
+| # | Program | Algorithm | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | File_Handling_System_Calls.c | File I/O | Create, open, read, and write operations using system calls | [View](Experiment-4/File_Handling_System_Calls.c) |
 
 ---
 
@@ -102,10 +102,10 @@ python filename.py
      ========================================================================================= -->
 ## Experiment 5: CPU Scheduling Algorithms (2 Programs)
 
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [FCFS_Scheduling_Algorithm.py](Experiment-5/FCFS_Scheduling_Algorithm.py) | First-Come, First-Served | Simplest non-preemptive scheduling |
-| 2 | [SJF_Scheduling_Algorithm.py](Experiment-5/SJF_Scheduling_Algorithm.py) | Shortest Job First | Optimization for minimum waiting time |
+| # | Program | Algorithm | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | FCFS_Scheduling_Algorithm.py | First-Come, First-Served | Simplest non-preemptive scheduling | [View](Experiment-5/FCFS_Scheduling_Algorithm.py) |
+| 2 | SJF_Scheduling_Algorithm.py | Shortest Job First | Optimization for minimum waiting time | [View](Experiment-5/SJF_Scheduling_Algorithm.py) |
 
 
 
