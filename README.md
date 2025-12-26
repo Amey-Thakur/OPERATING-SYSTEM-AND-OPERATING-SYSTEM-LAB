@@ -347,7 +347,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[Operating System Laboratory](Operating%20System%20Lab/)** &nbsp;·&nbsp; **[Interest Calculator Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
+  **[Operating System Laboratory](Operating%20System%20Lab/)** &nbsp;·&nbsp; **[💻 Interest Calculator Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
 
 </div>
 
