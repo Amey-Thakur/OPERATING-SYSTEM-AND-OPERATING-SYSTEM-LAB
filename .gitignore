@@ -1,0 +1,65 @@
+# ALL REPOSITORIES
+# ----------------
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
+*.bak
+*~
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# Visual Studio
+*.suo
+*.sln
+*.user
+*.pdb
+*.idb
+*.tlog
+*.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# C/C++ / Systems Programming Artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.a
+*.lib
+*.out
+*.app
+a.out
+core
+bin/
+obj/
+
+# Java (if used for simulations)
+*.class
+*.jar
+*.war
+*.ear
+
+# Shell Scripting
+# Keep .sh files!
+# Ignore specific temp files created by scripts if known
+*.tmp
+
+# Git
+*.orig
