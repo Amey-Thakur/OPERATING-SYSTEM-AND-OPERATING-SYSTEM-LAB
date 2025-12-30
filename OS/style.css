@@ -2247,3 +2247,34 @@ kbd {
 .footer a:hover {
     color: var(--accent-color);
 }
+
+/* Mini Project Card Styling */
+.mini-project-showcase {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: var(--shadow-md);
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    transition: transform 0.3s ease;
+}
+
+.mini-project-showcase:hover {
+    transform: translateY(-5px);
+    border-color: var(--accent-color);
+}
+
+.mini-project-showcase h4 {
+    color: var(--text-primary);
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+}
+
+.mini-project-showcase p {
+    color: var(--text-secondary);
+    font-size: 1rem;
+    margin-bottom: 25px;
+}
