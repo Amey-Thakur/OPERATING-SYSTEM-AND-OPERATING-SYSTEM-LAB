@@ -2433,72 +2433,57 @@ kbd {
 /* Tech Badges matching CG precisely */
 .badge-tech {
     font-size: 0.75rem;
-    font-weight: 600;
-    /* Sufficiently bold */
+    font-weight: 500;
     background: var(--bg-color);
     color: var(--text-secondary);
     padding: 4px 10px;
     border-radius: 4px;
-    /* CG uses 4px */
-    margin-right: 2px;
-    margin-bottom: 2px;
+    margin-right: 5px;
+    margin-bottom: 5px;
     border: 1px solid var(--border-color);
-    display: inline-flex;
-    align-items: center;
-    gap: 5px;
-    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-    white-space: nowrap;
+    display: inline-block;
+    white-space: normal;
+    word-break: break-all;
+    transition: all 0.2s;
 }
 
 .badge-tech i {
     color: var(--accent-color);
-    font-size: 0.8rem;
+    margin-right: 4px;
 }
 
-/* Individual Badge Hover */
-.badge-tech:hover {
-    background: var(--accent-color) !important;
+/* Programs Badge - Standard Bootstrap + Custom Pill Match */
+.badge.bg-primary {
+    background: #2563eb !important;
     color: white !important;
-    border-color: var(--accent-color) !important;
+    border-radius: 50px !important;
+    /* Pill shape precisely as per CG reference */
+    padding: 4px 12px;
+    font-weight: 700;
+    border: none;
+    display: inline-flex;
+    align-items: center;
+    transition: all 0.2s;
+    cursor: default;
+}
+
+.badge.bg-primary:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 10px rgba(249, 115, 22, 0.3);
+    box-shadow: 0 4px 10px rgba(37, 99, 235, 0.3);
+    filter: brightness(1.1);
 }
 
-.badge-tech:hover i {
-    color: white !important;
-}
-
-/* Card Hover - Badges pop with theme tint */
+/* Card Hover Effects */
 .card-custom:hover .badge-tech {
     background: var(--badge-bg);
     color: var(--badge-text);
     border-color: var(--badge-bg);
 }
 
-/* Ensure individual hover still works on card hover */
 .card-custom:hover .badge-tech:hover {
-    background: var(--accent-color) !important;
-    color: white !important;
-    border-color: var(--accent-color) !important;
-}
-
-/* Programs Badge - Custom Blue to match CG */
-.badge-programs {
-    background: #2563eb;
+    background: var(--accent-color);
     color: white;
-    font-size: 0.7rem;
-    font-weight: 700;
-    padding: 4px 10px;
-    border-radius: 4px;
-    display: inline-flex;
-    align-items: center;
-    border: none;
-    transition: all 0.2s;
-    cursor: default;
-}
-
-.badge-programs:hover {
+    border-color: var(--accent-color);
     transform: translateY(-2px);
-    box-shadow: 0 4px 10px rgba(37, 99, 235, 0.3);
-    filter: brightness(1.1);
+    box-shadow: 0 4px 10px rgba(249, 115, 22, 0.3);
 }
