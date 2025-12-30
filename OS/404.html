@@ -1,0 +1,255 @@
+<!--
+    ================================================================
+    Operating System (OS) Lab - 404 Not Found
+    ================================================================
+    Author: Amey Thakur
+    GitHub: https://github.com/Amey-Thakur
+    Course: Operating System (OS) Lab
+    Roll No: 50
+    Batch: B3
+    Repository: https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB
+    Date: January 17, 2020
+    ================================================================
+-->
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 | Segmentation Fault</title>
+
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="404 | Segmentation Fault">
+    <meta name="description"
+        content="The process you are trying to access has been terminated. Segmentation fault (core dumped). Please reboot your logic.">
+    <meta name="robots" content="noindex, follow">
+    <meta name="theme-color" content="#f97316">
+    <link rel="icon" type="image/svg+xml" href="assets/icon.svg">
+
+    <!-- Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+    <style>
+        :root {
+            /* Light Mode Variables matching style.css */
+            --bg-color: #f4f6f9;
+            --text-primary: #1e293b;
+            --text-secondary: #64748b;
+            --accent-color: #f97316;
+            /* Orange 500 */
+            --accent-hover: #ea580c;
+            /* Orange 600 */
+        }
+
+        [data-theme="dark"] {
+            /* Dark Mode Variables matching style.css */
+            --bg-color: #0c0a09;
+            --text-primary: #fafaf9;
+            --text-secondary: #a8a29e;
+            --accent-color: #fb923c;
+            /* Orange 400 */
+            --accent-hover: #fdba74;
+            /* Orange 300 */
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            font-family: 'Inter', sans-serif;
+            transition: background-color 0.8s ease, color 0.8s ease;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            overflow: hidden;
+            background-image: radial-gradient(circle at 50% 50%, rgba(249, 115, 22, 0.05) 0%, transparent 50%);
+        }
+
+        .error-container {
+            max-width: 800px;
+            padding: 40px;
+            position: relative;
+            z-index: 2;
+        }
+
+        .error-code {
+            font-size: 8rem;
+            font-weight: 700;
+            line-height: 1;
+            margin-bottom: 20px;
+            background: linear-gradient(120deg, var(--accent-color), #fcd34d);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-family: 'JetBrains Mono', monospace;
+            animation: pulse 3s infinite ease-in-out;
+            text-shadow: 0 0 30px rgba(249, 115, 22, 0.2);
+        }
+
+        .error-title {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .error-message {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            margin-bottom: 40px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .btn-home {
+            background: var(--accent-color);
+            color: white;
+            padding: 12px 30px;
+            border-radius: 6px;
+            font-weight: 600;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            transition: all 0.3s;
+            border: none;
+            font-family: 'JETBRAINS MONO', monospace;
+        }
+
+        .btn-home:hover {
+            transform: translateY(-3px);
+            background: var(--accent-hover);
+            box-shadow: 0 10px 20px rgba(249, 115, 22, 0.3);
+            color: white;
+        }
+
+        /* Abstract Node Background Animation */
+        .bg-shape {
+            position: absolute;
+            border-radius: 50%;
+            filter: blur(80px);
+            opacity: 0.3;
+            z-index: 1;
+            animation: float 20s infinite alternate;
+        }
+
+        .shape-1 {
+            width: 400px;
+            height: 400px;
+            background: var(--accent-color);
+            top: -100px;
+            left: -100px;
+        }
+
+        .shape-2 {
+            width: 300px;
+            height: 300px;
+            background: #fcd34d;
+            bottom: -50px;
+            right: -50px;
+            animation-delay: -5s;
+        }
+
+        @keyframes float {
+            0% {
+                transform: translate(0, 0) scale(1) rotate(0deg);
+            }
+
+            100% {
+                transform: translate(50px, 80px) scale(1.1) rotate(20deg);
+            }
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 1;
+                transform: scale(1);
+            }
+
+            50% {
+                opacity: 0.9;
+                transform: scale(0.98);
+            }
+        }
+
+        /* Footer for 404 */
+        .footer-simple {
+            margin-top: 50px;
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            animation: fadeIn 1.5s ease-in-out;
+        }
+
+        .footer-simple .highlight {
+            color: var(--accent-color);
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="bg-shape shape-1"></div>
+    <div class="bg-shape shape-2"></div>
+
+    <div class="error-container">
+        <div class="error-code">404</div>
+        <div class="error-title">Segmentation Fault</div>
+        <p class="error-message">
+            The process you are trying to access has been <strong>terminated</strong>.
+            <br>
+            Segmentation fault (core dumped). Memory address invalid.
+        </p>
+        <a href="index.html" class="btn-home">
+            <i class="fas fa-terminal"></i> sudo reboot
+        </a>
+
+        <div class="footer-simple">
+            <p>2018 - 2022 &copy; All Rights Reserved | Designed and Developed by <a
+                    href="https://github.com/Amey-Thakur" target="_blank" class="highlight"
+                    rel="noopener noreferrer">Amey Thakur</a></p>
+        </div>
+    </div>
+
+    <script>
+        /**
+         * =========================================
+         *   PAGE LOGIC
+         * =========================================
+         */
+
+        // Theme Persistence Logic
+        const htmlElement = document.documentElement;
+        try {
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            htmlElement.setAttribute('data-theme', savedTheme);
+        } catch (e) {
+            console.log('Access to LocalStorage denied');
+        }
+    </script>
+</body>
+
+</html>
