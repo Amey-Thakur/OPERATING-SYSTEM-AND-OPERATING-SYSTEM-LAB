@@ -2364,3 +2364,78 @@ kbd {
     color: white;
     box-shadow: 0 5px 15px rgba(249, 115, 22, 0.3);
 }
+
+/* CG Refined Card Styles */
+.card-icon {
+    width: 60px;
+    height: 60px;
+    background: rgba(249, 115, 22, 0.1);
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25px;
+    transition: transform 0.3s ease;
+}
+
+.card-custom:hover .card-icon {
+    transform: scale(1.1) rotate(5deg);
+    background: var(--accent-color);
+}
+
+.card-custom:hover .card-icon i {
+    color: white;
+}
+
+.card-icon i {
+    font-size: 1.8rem;
+    color: var(--accent-color);
+    transition: all 0.3s ease;
+}
+
+.experiment-label {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 1.5px;
+    color: var(--accent-color);
+    font-weight: 800;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.card-custom h3 {
+    font-weight: 800;
+    font-size: 1.75rem;
+    /* Larger title */
+    color: var(--text-primary);
+    margin-bottom: 15px;
+    font-family: 'Playfair Display', serif;
+    /* Or similar if available, otherwise inherit */
+}
+
+.card-link {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    transition: all 0.3s ease;
+    font-size: 1.1rem;
+    margin-top: auto;
+}
+
+.card-link:hover {
+    color: var(--accent-color);
+    gap: 15px;
+}
+
+/* Override badge for this style */
+.tech-stack .badge-tech {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--text-secondary);
+    padding: 8px 16px;
+    border-radius: 8px;
+    /* Square-ish */
+}
