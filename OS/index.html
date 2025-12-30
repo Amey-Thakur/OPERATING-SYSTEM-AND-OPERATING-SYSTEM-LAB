@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>AMEY | OS Lab Portfolio</title>
+    <meta name="description"
+        content="Scholarly portfolio for Operating System Laboratory featuring process management, scheduling algorithms, and system programming by Amey Thakur.">
+    <meta name="author" content="Amey Thakur">
+    <meta name="keywords"
+        content="Operating System, OS Lab, Process Scheduling, FCFS, SJF, Memory Management, File Systems, Shell Scripts">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/OS/">
+
+    <!-- Open Graph / Social Media Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="AMEY | OS Lab Portfolio">
+    <meta property="og:description"
+        content="Scholarly portfolio for Operating System Laboratory featuring process management, scheduling algorithms, and system programming by Amey Thakur.">
+    <meta property="og:url" content="https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/OS/">
+    <meta property="og:site_name" content="OS Lab Portfolio">
+    <meta property="og:locale" content="en_US">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="AMEY | OS Lab Portfolio">
+    <meta name="twitter:description"
+        content="Scholarly portfolio for Operating System Laboratory featuring process management, scheduling algorithms, and system programming by Amey Thakur.">
+    <meta name="twitter:url" content="https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/OS/">
+
+    <!-- Structured Data for SEO -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "OS Lab Portfolio",
+        "url": "https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/OS/",
+        "author": {
+            "@type": "Person",
+            "name": "Amey Thakur",
+            "url": "https://github.com/Amey-Thakur"
+        },
+        "description": "Scholarly portfolio for Operating System Laboratory featuring process management, scheduling algorithms, and system programming."
+    }
+    </script>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="assets/icon.svg">
+    <link rel="apple-touch-icon" href="assets/icon-192.png">
+
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#f97316">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="OS Portfolio">
+
+    <!-- Preconnect for Performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap"
+        rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Accessibility: Skip Link -->
+    <div class="visually-hidden-focusable">
+        <a href="#main-content" class="skip-link">Skip to main content</a>
+        <style>
+            .visually-hidden-focusable:not(:focus):not(:focus-within) {
+                position: absolute !important;
+                width: 1px !important;
+                height: 1px !important;
+                padding: 0 !important;
+                margin: -1px !important;
+                overflow: hidden !important;
+                clip: rect(0, 0, 0, 0) !important;
+                white-space: nowrap !important;
+                border: 0 !important;
+            }
+
+            .skip-link {
+                position: absolute;
+                top: -40px;
+                left: 0;
+                background: var(--accent-color);
+                color: white;
+                padding: 8px 16px;
+                z-index: 10001;
+                transition: top 0.3s;
+                text-decoration: none;
+                border-radius: 0 0 8px 0;
+            }
+
+            .skip-link:focus {
+                top: 0;
+            }
+        </style>
+    </div>
+
+    <main class="main-container" id="main-content">
+
+        <!-- Hero Section -->
+        <header class="hero">
+            <div class="top-controls">
+                <button class="control-btn" id="pwa-install-btn" title="Install App" aria-label="Install App"
+                    style="display: none;">
+                    <i class="fas fa-download" aria-hidden="true"></i>
+                </button>
+                <button class="control-btn" id="share-btn" title="Share Portfolio" aria-label="Share Portfolio">
+                    <i class="fas fa-share-nodes" aria-hidden="true"></i>
+                </button>
+                <button class="control-btn" id="theme-toggle" title="Switch Theme" aria-label="Toggle Dark Mode">
+                    <i class="fas fa-moon" aria-hidden="true"></i>
+                </button>
+            </div>
+
+            <h1>Operating System Lab</h1>
+            <p>A curated portfolio of operating system experiments, demonstrating process scheduling, memory management,
+                file handling, and system programming with precision.</p>
+
+            <div class="info-badges">
+                <div class="d-flex gap-2 justify-content-center w-100 flex-wrap mb-2 align-items-center">
+                    <a href="https://github.com/Amey-Thakur" class="badge-pill clickable-badge" target="_blank"
+                        rel="noopener noreferrer">
+                        <i class="fas fa-user-graduate me-2"></i>Amey Thakur
+                    </a>
+                    <span class="badge-pill">Roll No: 50</span>
+                    <span class="badge-pill">Batch: B3</span>
+                </div>
+            </div>
+
+            <div class="hero-buttons">
+                <a href="https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB"
+                    class="btn btn-primary-custom tilt-effect" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-github me-2"></i>OS Repo
+                </a>
+                <a href="https://github.com/Amey-Thakur/COMPUTER-ENGINEERING"
+                    class="btn btn-primary-custom btn-secondary-custom tilt-effect" target="_blank"
+                    rel="noopener noreferrer">
+                    <i class="fas fa-code-branch me-2"></i>Computer Engineering Repo
+                </a>
+            </div>
+
+            <!-- Stats Counter -->
+            <div class="stats-container">
+                <div class="stat-item">
+                    <span class="stat-number" data-target="2">0</span>
+                    <span class="stat-label">Experiments</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" data-target="6">0</span>
+                    <span class="stat-label">The Wall</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" data-target="1">0</span>
+                    <span class="stat-label">Mini Project</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" data-target="100" data-suffix="%">0%</span>
+                    <span class="stat-label">Complete</span>
+                </div>
+            </div>
+
+            <!-- Scroll Hint -->
+            <div class="mt-4 text-center" style="animation: fadeInDown 1s ease 0.5s both;">
+                <a href="#experiments"
+                    style="color: var(--text-secondary); text-decoration: none; font-size: 0.9rem; display: inline-flex; align-items: center; gap: 8px; transition: color 0.3s;">
+                    <i class="fas fa-chevron-down" style="animation: bounce 2s infinite;"></i>
+                    🔬 Explore OS Experiments below!
+                    <i class="fas fa-chevron-down" style="animation: bounce 2s infinite;"></i>
+                </a>
+            </div>
+        </header>
+
+        <!-- Section: Experiments -->
+        <section aria-labelledby="experiments-title" id="experiments">
+            <div class="section-title reveal">
+                <h3 id="experiments-title">Laboratory Experiments</h3>
+            </div>
+
+            <div class="row g-4">
+                <!-- Experiment 4: File Handling System Calls -->
+                <div class="col-md-6 reveal">
+                    <article class="card-custom h-100">
+                        <div class="card-body d-flex flex-column">
+                            <div class="d-flex align-items-center mb-3">
+                                <span class="experiment-number">04</span>
+                                <h5 class="mb-0">File Handling System Calls</h5>
+                            </div>
+                            <p class="card-text flex-grow-1">Implementation of file I/O operations using system calls -
+                                create, open, read, write, and close operations in C.</p>
+                            <div class="tech-stack mb-3">
+                                <span class="badge-tech"><i class="fas fa-file-code me-1"></i>System Calls</span>
+                                <span class="badge-tech"><i class="fas fa-folder-open me-1"></i>File I/O</span>
+                                <span class="badge-tech"><i class="fab fa-cuttlefish me-1"></i>C</span>
+                            </div>
+                            <a href="../Operating System Lab/Experiment-4/" class="btn btn-outline-custom w-100"
+                                target="_blank" rel="noopener noreferrer">
+                                <i class="fas fa-code me-2"></i>View Source Code
+                            </a>
+                        </div>
+                    </article>
+                </div>
+
+                <!-- Experiment 5: CPU Scheduling Algorithms -->
+                <div class="col-md-6 reveal">
+                    <article class="card-custom h-100">
+                        <div class="card-body d-flex flex-column">
+                            <div class="d-flex align-items-center mb-3">
+                                <span class="experiment-number">05</span>
+                                <h5 class="mb-0">CPU Scheduling Algorithms</h5>
+                            </div>
+                            <p class="card-text flex-grow-1">Implementation of FCFS (First-Come, First-Served) and SJF
+                                (Shortest Job First) scheduling algorithms with Gantt chart visualization.</p>
+                            <div class="tech-stack mb-3">
+                                <span class="badge-tech"><i class="fas fa-clock me-1"></i>FCFS</span>
+                                <span class="badge-tech"><i class="fas fa-sort-amount-up me-1"></i>SJF</span>
+                                <span class="badge-tech"><i class="fab fa-python me-1"></i>Python</span>
+                            </div>
+                            <a href="../Operating System Lab/Experiment-5/" class="btn btn-outline-custom w-100"
+                                target="_blank" rel="noopener noreferrer">
+                                <i class="fas fa-code me-2"></i>View Source Code
+                            </a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section: The Wall -->
+        <section aria-labelledby="the-wall-title" id="the-wall">
+            <div class="section-title reveal">
+                <h3 id="the-wall-title">The Wall</h3>
+                <p class="section-subtitle">Collaborative Study Notes by Mega Satish</p>
+            </div>
+
+            <!-- Contributors -->
+            <div class="wall-contributors reveal">
+                <div class="contributor-card">
+                    <a href="https://github.com/Amey-Thakur" target="_blank" rel="noopener noreferrer">
+                        <img src="https://github.com/Amey-Thakur.png" alt="Amey Thakur" class="contributor-avatar">
+                        <span class="contributor-name">Amey Thakur</span>
+                    </a>
+                </div>
+                <div class="contributor-card featured">
+                    <a href="https://github.com/msatmod" target="_blank" rel="noopener noreferrer">
+                        <img src="../THE WALL/Mega_Satish.png" alt="Mega Satish" class="contributor-avatar">
+                        <span class="contributor-name">Mega Satish</span>
+                        <span class="contributor-badge">Notes Author</span>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Special Thanks -->
+            <div class="special-thanks reveal">
+                <div class="thanks-card">
+                    <i class="fas fa-heart"></i>
+                    <p><strong>Special Thanks:</strong> A heartfelt thank you to Mega for her constant support,
+                        patience, and clarity throughout this journey. Learning alongside her made a real difference.
+                        Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned
+                        challenges into meaningful learning moments.</p>
+                </div>
+            </div>
+
+            <!-- Chapter Notes Grid -->
+            <div class="row g-4">
+                <div class="col-md-4 col-6 reveal">
+                    <a href="../THE WALL/OS_Chapter-1.pdf" class="wall-chapter-card" target="_blank"
+                        rel="noopener noreferrer">
+                        <span class="chapter-number">01</span>
+                        <h6>Introduction to OS</h6>
+                        <span class="chapter-icon"><i class="fas fa-laptop-code"></i></span>
+                    </a>
+                </div>
+                <div class="col-md-4 col-6 reveal">
+                    <a href="../THE WALL/OS_Chapter-2.pdf" class="wall-chapter-card" target="_blank"
+                        rel="noopener noreferrer">
+                        <span class="chapter-number">02</span>
+                        <h6>Process Management</h6>
+                        <span class="chapter-icon"><i class="fas fa-cogs"></i></span>
+                    </a>
+                </div>
+                <div class="col-md-4 col-6 reveal">
+                    <a href="../THE WALL/OS_Chapter-3.pdf" class="wall-chapter-card" target="_blank"
+                        rel="noopener noreferrer">
+                        <span class="chapter-number">03</span>
+                        <h6>Process Scheduling</h6>
+                        <span class="chapter-icon"><i class="fas fa-clock"></i></span>
+                    </a>
+                </div>
+                <div class="col-md-4 col-6 reveal">
+                    <a href="../THE WALL/OS_Chapter-4.pdf" class="wall-chapter-card" target="_blank"
+                        rel="noopener noreferrer">
+                        <span class="chapter-number">04</span>
+                        <h6>Synchronization & Deadlocks</h6>
+                        <span class="chapter-icon"><i class="fas fa-lock"></i></span>
+                    </a>
+                </div>
+                <div class="col-md-4 col-6 reveal">
+                    <a href="../THE WALL/OS_Chapter-5.pdf" class="wall-chapter-card" target="_blank"
+                        rel="noopener noreferrer">
+                        <span class="chapter-number">05</span>
+                        <h6>Memory Management</h6>
+                        <span class="chapter-icon"><i class="fas fa-memory"></i></span>
+                    </a>
+                </div>
+                <div class="col-md-4 col-6 reveal">
+                    <a href="../THE WALL/OS_Chapter-6.pdf" class="wall-chapter-card" target="_blank"
+                        rel="noopener noreferrer">
+                        <span class="chapter-number">06</span>
+                        <h6>File Systems & I/O</h6>
+                        <span class="chapter-icon"><i class="fas fa-folder"></i></span>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section: Mini Project -->
+        <section aria-labelledby="mini-project-title" id="mini-project">
+            <div class="section-title reveal">
+                <h3 id="mini-project-title">Mini Project</h3>
+                <p class="section-subtitle">💻 Compound and Simple Interest Calculator</p>
+            </div>
+
+            <div class="mini-project-showcase reveal">
+                <div class="project-info">
+                    <h4><i class="fas fa-calculator me-2"></i>Interest Calculator</h4>
+                    <p>A robust command-line utility written in Shell Script for calculating simple and compound
+                        interest. Demonstrates proficiency in shell scripting and mathematical computations in a
+                        Linux/Termux environment.</p>
+
+                    <div class="tech-stack mb-3">
+                        <span class="badge-tech"><i class="fas fa-terminal me-1"></i>Shell Script</span>
+                        <span class="badge-tech"><i class="fab fa-linux me-1"></i>Linux</span>
+                        <span class="badge-tech"><i class="fas fa-mobile-alt me-1"></i>Termux</span>
+                    </div>
+
+                    <!-- Project Authors -->
+                    <div class="project-authors">
+                        <div class="author-card">
+                            <a href="https://github.com/Amey-Thakur" target="_blank" rel="noopener noreferrer">
+                                <img src="https://github.com/Amey-Thakur.png" alt="Amey Thakur">
+                                <span>Amey Thakur</span>
+                            </a>
+                        </div>
+                        <div class="author-card">
+                            <a href="https://github.com/rizvihasan" target="_blank" rel="noopener noreferrer">
+                                <img src="https://github.com/rizvihasan.png" alt="Hasan Rizvi">
+                                <span>Hasan Rizvi</span>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="project-buttons">
+                        <a href="https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR"
+                            class="btn btn-primary-custom" target="_blank" rel="noopener noreferrer">
+                            <i class="fab fa-github me-2"></i>View Repository
+                        </a>
+                        <a href="https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/blob/main/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf"
+                            class="btn btn-outline-custom" target="_blank" rel="noopener noreferrer">
+                            <i class="fas fa-file-pdf me-2"></i>Project Report
+                        </a>
+                    </div>
+
+                    <!-- Special Acknowledgement -->
+                    <div class="special-thanks mt-4">
+                        <div class="thanks-card compact">
+                            <i class="fas fa-handshake"></i>
+                            <p><strong>Special Acknowledgement:</strong> Thanks to <a
+                                    href="https://github.com/rizvihasan" target="_blank">Hasan Rizvi</a> for his
+                                meaningful contributions, guidance, and support that helped shape this work.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section: Resources -->
+        <section aria-labelledby="resources-title" id="resources">
+            <div class="section-title reveal">
+                <h3 id="resources-title">Additional Resources</h3>
+            </div>
+
+            <div class="row g-4">
+                <div class="col-md-4 reveal">
+                    <a href="../Operating System Lab/PRACTICAL LAB.pdf" class="resource-card" target="_blank"
+                        rel="noopener noreferrer">
+                        <i class="fas fa-book"></i>
+                        <h6>Lab Journal</h6>
+                        <p>Complete practical record</p>
+                    </a>
+                </div>
+                <div class="col-md-4 reveal">
+                    <a href="../Reference Books/" class="resource-card" target="_blank" rel="noopener noreferrer">
+                        <i class="fas fa-books"></i>
+                        <h6>Reference Books</h6>
+                        <p>Study materials & notes</p>
+                    </a>
+                </div>
+                <div class="col-md-4 reveal">
+                    <a href="../SE-Comps_CBCGS_Syllabus.pdf" class="resource-card" target="_blank"
+                        rel="noopener noreferrer">
+                        <i class="fas fa-scroll"></i>
+                        <h6>Syllabus</h6>
+                        <p>Official CBCGS syllabus</p>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer reveal">
+            <div class="footer-content">
+                <p class="mb-2">
+                    <strong>CSC405 & CSL404</strong> · Semester IV · Computer Engineering
+                </p>
+                <p class="mb-2">
+                    <a href="https://ternaengg.ac.in/" target="_blank" rel="noopener noreferrer">Terna Engineering
+                        College</a>
+                    ·
+                    <a href="https://mu.ac.in/" target="_blank" rel="noopener noreferrer">University of Mumbai</a>
+                </p>
+                <p class="mb-0">
+                    <i class="fas fa-code me-1"></i> Crafted with <i class="fas fa-heart text-danger mx-1"></i> by
+                    <a href="https://github.com/Amey-Thakur" target="_blank" rel="noopener noreferrer">Amey Thakur</a>
+                </p>
+            </div>
+        </footer>
+
+    </main>
+
+    <!-- Back to Top Button -->
+    <button type="button" class="btn" id="btn-back-to-top" aria-label="Back to Top">
+        <i class="fas fa-arrow-up" aria-hidden="true"></i>
+    </button>
+
+    <!-- Keyboard Shortcut Hint -->
+    <div id="kbd-hint" class="kbd-hint">
+        <span>Press</span>
+        <kbd>Ctrl</kbd>
+        <span>+</span>
+        <kbd>K</kbd>
+        <span>to search</span>
+    </div>
+
+    <!-- Command Palette Overlay -->
+    <div id="cmd-overlay" class="cmd-overlay">
+        <div class="cmd-modal">
+            <div class="cmd-header">
+                <i class="fas fa-search"></i>
+                <input type="text" id="cmd-input" placeholder="Search experiments, chapters, or commands..."
+                    autocomplete="off">
+                <kbd>ESC</kbd>
+            </div>
+            <div class="cmd-body">
+                <div id="cmd-results"></div>
+            </div>
+            <div class="cmd-footer">
+                <span><kbd>↑↓</kbd> Navigate</span>
+                <span><kbd>↵</kbd> Select</span>
+                <span><kbd>ESC</kbd> Close</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom Scripts -->
+    <script src="script.js"></script>
+
+    <!-- Service Worker Registration -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js')
+                .then(reg => console.log('Service Worker registered'))
+                .catch(err => console.log('Service Worker registration failed:', err));
+        }
+    </script>
+</head>
+
+</html>
