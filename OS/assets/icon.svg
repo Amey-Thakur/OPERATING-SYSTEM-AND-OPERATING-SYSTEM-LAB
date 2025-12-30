@@ -1,36 +1,10 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background Gradient -->
-    <rect width="512" height="512" rx="120" fill="url(#bg_gradient)"/>
-    
-    <!-- Subtle Grid Pattern -->
-    <path d="M0 256H512M256 0V512" stroke="white" stroke-width="2" stroke-opacity="0.1"/>
-    
-    <!-- Central Geometric Element (Wireframe Cube) -->
-    <g transform="translate(156 120)">
-        <!-- Back Face -->
-        <path d="M50 50L150 50L150 150L50 150L50 50Z" stroke="white" stroke-width="4" stroke-opacity="0.3" fill="none"/>
-        <!-- Front Face -->
-        <rect x="0" y="80" width="100" height="100" stroke="white" stroke-width="8" fill="rgba(255,255,255,0.1)"/>
-        <!-- Connecting Lines -->
-        <path d="M0 80L50 50M100 80L150 50M100 180L150 150M0 180L50 150" stroke="white" stroke-width="4" stroke-opacity="0.5"/>
-    </g>
-
-    <!-- Authorship Text -->
-    <rect x="106" y="340" width="300" height="70" rx="35" fill="white"/>
-    <text x="256" y="385" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="32" fill="#7C3AED" text-anchor="middle">
-        AMEY
-    </text>
-
-    <!-- Tech Badge -->
-    <rect x="186" y="430" width="140" height="30" rx="15" fill="rgba(0,0,0,0.2)"/>
-    <text x="256" y="452" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="14" fill="white" text-anchor="middle" letter-spacing="2">
-        GRAPHICS
-    </text>
-
-    <defs>
-        <linearGradient id="bg_gradient" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#8B5CF6"/> <!-- Violet 500 -->
-            <stop offset="1" stop-color="#6D28D9"/> <!-- Violet 700 -->
-        </linearGradient>
-    </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f97316;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ea580c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="100" fill="#0c0a09" />
+  <path d="M112 160l144 96-144 96M288 352h112" stroke="url(#grad)" stroke-width="48" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
 </svg>
