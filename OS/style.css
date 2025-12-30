@@ -2439,3 +2439,14 @@ kbd {
     border-radius: 8px;
     /* Square-ish */
 }
+
+/* Final Badge Polish (CG Tint Style) */
+.tech-stack .badge-tech {
+    background: rgba(249, 115, 22, 0.15) !important;
+    border: none !important;
+    color: var(--accent-color) !important;
+    font-weight: 700;
+    padding: 8px 14px;
+    border-radius: 8px;
+    letter-spacing: 0.3px;
+}
