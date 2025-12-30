@@ -2430,36 +2430,75 @@ kbd {
     gap: 15px;
 }
 
-/* Override badge for this style */
-.tech-stack .badge-tech {
-    background: rgba(255, 255, 255, 0.05);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+/* Tech Badges matching CG precisely */
+.badge-tech {
+    font-size: 0.75rem;
+    font-weight: 600;
+    /* Sufficiently bold */
+    background: var(--bg-color);
     color: var(--text-secondary);
     padding: 4px 10px;
-    border-radius: 6px;
-    /* Rectangular as requested */
-    font-weight: 600;
-    font-size: 0.75rem;
-    /* Smaller font */
-    transition: all 0.3s ease;
+    border-radius: 4px;
+    /* CG uses 4px */
+    margin-right: 2px;
+    margin-bottom: 2px;
+    border: 1px solid var(--border-color);
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    white-space: nowrap;
 }
 
+.badge-tech i {
+    color: var(--accent-color);
+    font-size: 0.8rem;
+}
+
+/* Individual Badge Hover */
+.badge-tech:hover {
+    background: var(--accent-color) !important;
+    color: white !important;
+    border-color: var(--accent-color) !important;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(249, 115, 22, 0.3);
+}
+
+.badge-tech:hover i {
+    color: white !important;
+}
+
+/* Card Hover - Badges pop with theme tint */
+.card-custom:hover .badge-tech {
+    background: var(--badge-bg);
+    color: var(--badge-text);
+    border-color: var(--badge-bg);
+}
+
+/* Ensure individual hover still works on card hover */
+.card-custom:hover .badge-tech:hover {
+    background: var(--accent-color) !important;
+    color: white !important;
+    border-color: var(--accent-color) !important;
+}
+
+/* Programs Badge - Custom Blue to match CG */
 .badge-programs {
     background: #2563eb;
-    /* Blue */
     color: white;
-    border: none;
+    font-size: 0.7rem;
     font-weight: 700;
     padding: 4px 10px;
-    border-radius: 6px;
-    /* Rectangular matches tech badges */
-    font-size: 0.75rem;
-    /* Smaller font */
+    border-radius: 4px;
+    display: inline-flex;
+    align-items: center;
+    border: none;
+    transition: all 0.2s;
+    cursor: default;
 }
 
-/* Hover effect for badges matching CG */
-.card-custom:hover .badge-tech {
-    background: rgba(249, 115, 22, 0.1);
-    color: var(--accent-color);
-    border-color: rgba(249, 115, 22, 0.2);
+.badge-programs:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(37, 99, 235, 0.3);
+    filter: brightness(1.1);
 }
