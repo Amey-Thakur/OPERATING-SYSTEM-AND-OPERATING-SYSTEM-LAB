@@ -2225,3 +2225,25 @@ kbd {
     font-size: 0.9rem;
     margin: 0;
 }
+
+/* Footer Styling (Matching CG) */
+.footer {
+    padding: 30px 0;
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    margin-top: auto;
+    border-top: 1px solid var(--border-color);
+    background: var(--bg-color);
+}
+
+.footer a {
+    color: var(--text-primary);
+    font-weight: 700;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer a:hover {
+    color: var(--accent-color);
+}
