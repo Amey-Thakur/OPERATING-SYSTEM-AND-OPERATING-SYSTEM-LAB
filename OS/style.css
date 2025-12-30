@@ -2435,9 +2435,10 @@ kbd {
     background: rgba(255, 255, 255, 0.05);
     border: 1px solid rgba(255, 255, 255, 0.1);
     color: var(--text-secondary);
-    padding: 8px 16px;
-    border-radius: 8px;
-    /* Square-ish */
+    padding: 6px 12px;
+    border-radius: 6px;
+    /* Rectangular as requested */
+    font-weight: 600;
     transition: all 0.3s ease;
 }
 
@@ -2448,7 +2449,8 @@ kbd {
     border: none;
     font-weight: 700;
     padding: 6px 12px;
-    border-radius: 20px;
+    border-radius: 6px;
+    /* Rectangular matches tech badges */
     font-size: 0.8rem;
     margin-left: auto;
 }
