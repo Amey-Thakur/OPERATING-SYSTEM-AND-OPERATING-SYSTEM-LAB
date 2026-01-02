@@ -1,38 +1,22 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Operating System - Academic Repository
+# Specialized .gitignore for systems programming and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
-*.code-workspace
-
-# JetBrains
 .idea/
+*.swp
+*.swo
+*~
 *.iml
-
-# Visual Studio
-*.suo
-*.sln
-*.user
-*.pdb
-*.idb
-*.tlog
-*.vs/
-Debug/
-Release/
-x64/
-x86/
+*.code-workspace
+.vs/
 
 # C/C++ / Systems Programming Artifacts
 *.exe
@@ -44,22 +28,31 @@ x86/
 *.a
 *.lib
 *.out
-*.app
 a.out
 core
 bin/
 obj/
+Debug/
+Release/
 
-# Java (if used for simulations)
+# Java Build Artifacts
 *.class
 *.jar
 *.war
 *.ear
 
 # Shell Scripting
-# Keep .sh files!
-# Ignore specific temp files created by scripts if known
-*.tmp
+# Keep source files!
+# If specific tools generate other junk files, list them here.
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+node_modules/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
