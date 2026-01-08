@@ -129,7 +129,7 @@ python filename.py
 
   <br>
 
-  🏠 **[Back to Main Repository](../)**
+  🏠 **[Back to Main Repository](../)** &nbsp;·&nbsp; 💻 **[Interest Calculator Repository](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
 
 </div>
 
