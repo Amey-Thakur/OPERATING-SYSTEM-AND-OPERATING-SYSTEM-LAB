@@ -88,29 +88,12 @@ This collection includes **comprehensive reference materials** covering all majo
 
 <div align="center">
 
-**Collaborative Study Notes**
+**Collaborative Study Notes by Amey & Mega**
 
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/Amey-Thakur">
-<img src="https://github.com/Amey-Thakur.png" alt="Amey Thakur" width="150" height="150"/><br/>
-<b>Amey Thakur</b>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/msatmod">
-<img src="https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/blob/main/THE%20WALL/Mega_Satish.png?raw=true" alt="Mega Satish" width="150" height="150"/><br/>
-<b>Mega Satish</b>
-</a>
-</td>
-</tr>
-</table>
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39.svg)](https://orcid.org/0000-0001-5644-1575) | <img src="THE%20WALL/Mega_Satish.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-A6CE39.svg)](https://orcid.org/0000-0002-1844-9557) |
+| :---: | :---: |
 
 </div>
-
-> [!IMPORTANT]
-> 💝 **Special Thanks**: A heartfelt thank you to Mega for her constant support, patience, and clarity throughout this journey. Learning alongside her made a real difference, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
 
 ### The Wall - Notes Authored by [MEGA SATISH](https://github.com/msatmod)
 
@@ -219,8 +202,9 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Laboratory Journal](Operating%20System%20Lab/PRACTICAL%20LAB.pdf) | Complete record of experiments with theory, diagrams, and analysis |
-| 2 | [Lab README](Operating%20System%20Lab/) | Detailed navigation guide with program descriptions |
+| 1 | [Interactive Lab Portfolio](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/OS/) | Interactive dashboard with source code descriptions and diagrams |
+| 2 | [Laboratory Journal](Operating%20System%20Lab/PRACTICAL%20LAB.pdf) | Complete record of experiments with theory, diagrams, and analysis |
+| 3 | [Lab README](Operating%20System%20Lab/) | Detailed navigation guide with program descriptions |
 
 ---
 
@@ -321,7 +305,7 @@ This repository and all linked academic content are made available under the **C
 
 This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Operating System & Operating System Lab.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
@@ -329,7 +313,7 @@ Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for her
 
 Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for his exceptional contribution to this repository through the Simple and Compound Interest Calculator project. Working alongside Hasan was a truly enriching experience - his technical expertise, creative problem-solving, and unwavering dedication made every challenge feel surmountable. Beyond his scripting skills, it was his collaborative spirit and enthusiasm for innovation that transformed this project from a concept into a robust utility. His patience in debugging, willingness to explore new approaches, and commitment to delivering quality work inspired growth and learning throughout the development process. Thank you, Hasan, for being an outstanding project partner and for all the knowledge you shared along the way.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Operating Systems. Their clear teaching and continued support helped develop a strong understanding of system internals.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Operating Systems. Their clear teaching and continued support helped develop a strong understanding of system internals.
 
 Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 

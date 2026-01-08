@@ -28,8 +28,18 @@
 
 ---
 
+</div>
+
+---
+
+<div align="center">
+
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-OS%20Lab%20Portfolio-007bff?style=flat&logo=github)](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/OS/)
+
+</div>
+
 > [!TIP]
-> **Process Visualization**: Always draw process state diagrams and Gantt charts on paper before coding scheduling algorithms. Trace through each time quantum, calculate waiting/turnaround times step-by-step, and visualize memory allocation patterns. Understanding the underlying state transitions and resource allocation is essential for implementing efficient OS simulations.
+> **Live Implementation**: For a comprehensive visual showcase, visit the [OS Lab Portfolio Dashboard](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/OS/). For the complete source code and detailed documentation, visit the [Operating System Lab](./) directory. Process visualization is key. Always draw process state diagrams and Gantt charts on paper before coding scheduling algorithms. Trace through each time quantum, calculate waiting/turnaround times step-by-step, and visualize memory allocation patterns. Understanding the underlying state transitions and resource allocation is essential for implementing efficient OS simulations.
 
 > [!WARNING]
 > **Environment Requirements**: C programs require **GCC Compiler** for compilation. Python programs require **Python 3.x**. Ensure your development environment is properly configured before running the experiments.
