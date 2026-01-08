@@ -108,7 +108,7 @@ Comprehensive chapter-wise notes curated by Mega Satish, covering all essential 
 | 5 | [OS Chapter - 5](THE%20WALL/OS_Chapter-5.pdf) | Memory Management |
 | 6 | [OS Chapter - 6](THE%20WALL/OS_Chapter-6.pdf) | File Systems and I/O |
 
-> [!NOTE]
+> [!IMPORTANT]
 > **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic in 2020. Due to the nationwide lockdown and the sudden transition to online learning, several planned laboratory sessions and collaborative note-taking activities could not be carried out as originally intended. Despite these challenges, efforts were made to adapt and preserve as much work as possible.
 
 ---
@@ -163,12 +163,12 @@ The laboratory component (CSL404) focuses on the practical implementation of the
   [![Language](https://img.shields.io/badge/Language-Python-blue.svg)](Operating%20System%20Lab/)
   [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-brightgreen.svg)](Operating%20System%20Lab/PRACTICAL%20LAB.pdf)
 
-
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-OS%20Lab%20Portfolio-007bff?style=flat&logo=github)](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/OS/)
 
 </div>
 
 > [!TIP]
-> **Process Visualization**: Always draw process state diagrams and Gantt charts on paper before coding scheduling algorithms. Trace through each time quantum, calculate waiting/turnaround times step-by-step, and visualize memory allocation patterns. Understanding the underlying state transitions and resource allocation is essential for implementing efficient OS simulations.
+> **Live Implementation**: For a comprehensive visual showcase, visit the [OS Lab Portfolio Dashboard](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/OS/). For the complete source code and detailed documentation, visit the [Operating System Lab](Operating%20System%20Lab/) directory. Process visualization is key. Always draw process state diagrams and Gantt charts on paper before coding scheduling algorithms. Trace through each time quantum, calculate waiting/turnaround times step-by-step, and visualize memory allocation patterns. Understanding the underlying state transitions and resource allocation is essential for implementing efficient OS simulations.
 
 ### Laboratory Experiments
 
