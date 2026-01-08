@@ -28,10 +28,6 @@
 
 ---
 
-</div>
-
----
-
 <div align="center">
 
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-OS%20Lab%20Portfolio-007bff?style=flat&logo=github)](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/OS/)
