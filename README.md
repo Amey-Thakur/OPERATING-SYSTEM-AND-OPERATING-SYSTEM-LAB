@@ -239,7 +239,7 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
 ### Project Overview
 
-A robust command-line tool written in Shell Script to calculate simple and compound interest, entered parameters, and financial summaries. This project demonstrates proficiency in shell scripting and mathematical computations in a Linux environment. It highlights the use of shell commands for input/output operations, arithmetic calculations, and logic control flow.
+A robust command-line tool written in Shell Script to calculate simple and compound interest, entered parameters, and financial summaries. This mini-project demonstrates proficiency in shell scripting and mathematical computations in a Linux environment. It highlights the use of shell commands for input/output operations, arithmetic calculations, and logic control flow.
 
 ### Resources
 
