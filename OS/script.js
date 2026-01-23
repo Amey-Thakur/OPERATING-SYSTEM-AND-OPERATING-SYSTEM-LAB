@@ -357,3 +357,31 @@ function initCommandPalette() {
         filterResults(e.target.value);
     });
 }
+
+// =========================================
+//   SHARE FUNCTIONALITY
+// =========================================
+const shareBtn = document.getElementById('share-btn');
+if (shareBtn) {
+    shareBtn.addEventListener('click', async () => {
+        const shareData = {
+            title: 'Operating System Lab Portfolio — Amey Thakur & Mega Satish',
+            text: 'Operating System Lab Portfolio — Amey Thakur & Mega Satish',
+            url: window.location.href
+        };
+
+        try {
+            await navigator.share(shareData);
+        } catch (err) {
+            // Fallback: Copy to clipboard
+            const dummy = document.createElement('input');
+            document.body.appendChild(dummy);
+            dummy.value = window.location.href;
+            dummy.select();
+            document.execCommand('copy');
+            document.body.removeChild(dummy);
+            alert('Portfolio link copied to clipboard!');
+        }
+    });
+}
+
