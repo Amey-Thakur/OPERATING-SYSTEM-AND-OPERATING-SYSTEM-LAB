@@ -2950,3 +2950,30 @@ kbd {
     min-width: 140px;
 }
 
+
+/* 
+ * =========================================
+ *   SCROLL HINT HOVER EFFECT
+ * =========================================
+ */
+.scroll-link {
+    color: var(--text-secondary) !important;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+
+.scroll-link:hover {
+    color: var(--accent-color) !important;
+    letter-spacing: 0.5px;
+}
+
+.scroll-link .fa-chevron-down {
+    font-size: 0.8rem;
+    animation: bounce 2s infinite;
+}
