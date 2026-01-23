@@ -163,12 +163,12 @@ The laboratory component (CSL404) focuses on the practical implementation of the
   [![Language](https://img.shields.io/badge/Language-Python-blue.svg)](Operating%20System%20Lab/)
   [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-brightgreen.svg)](Operating%20System%20Lab/PRACTICAL%20LAB.pdf)
 
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-OS%20Lab%20Portfolio-007bff?style=flat&logo=github)](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/OS/)
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-OS%20Lab%20Portfolio-007bff?style=flat&logo=github)](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/)
 
 </div>
 
 > [!TIP]
-> **Live Implementation**: For a comprehensive visual showcase, visit the [OS Lab Portfolio Dashboard](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/OS/). For the complete source code and detailed documentation, visit the [Operating System Lab](Operating%20System%20Lab/) directory. Process visualization is key. Always draw process state diagrams and Gantt charts on paper before coding scheduling algorithms. Trace through each time quantum, calculate waiting/turnaround times step-by-step, and visualize memory allocation patterns. Understanding the underlying state transitions and resource allocation is essential for implementing efficient OS simulations.
+> **Live Implementation**: For a comprehensive visual showcase, visit the [OS Lab Portfolio Dashboard](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/). For the complete source code and detailed documentation, visit the [Operating System Lab](Operating%20System%20Lab/) directory. Process visualization is key. Always draw process state diagrams and Gantt charts on paper before coding scheduling algorithms. Trace through each time quantum, calculate waiting/turnaround times step-by-step, and visualize memory allocation patterns. Understanding the underlying state transitions and resource allocation is essential for implementing efficient OS simulations.
 
 ### Laboratory Experiments
 
@@ -202,7 +202,7 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Interactive Lab Portfolio](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/OS/) | Interactive dashboard with source code descriptions and diagrams |
+| 1 | [Interactive Lab Portfolio](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/) | Interactive dashboard with source code descriptions and diagrams |
 | 2 | [Laboratory Journal](Operating%20System%20Lab/PRACTICAL%20LAB.pdf) | Complete record of experiments with theory, diagrams, and analysis |
 | 3 | [Lab README](Operating%20System%20Lab/) | Detailed navigation guide with program descriptions |
 
@@ -331,7 +331,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  🔬 **[Operating System Laboratory](Operating%20System%20Lab/)** &nbsp;·&nbsp; **[💻 Interest Calculator Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
+  🔬 **[Operating System Laboratory](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/)** &nbsp;·&nbsp; **[💻 Interest Calculator Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
 
 </div>
 
