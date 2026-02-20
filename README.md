@@ -35,13 +35,13 @@ Operating System (CSC405) and Operating System Lab (CSL404) are core subjects in
 
 The curriculum encompasses several key domains in operating systems:
 
-- **Process Management**: Processes, threads, scheduling algorithms (FCFS, SJF, SRTN, RR)
-- **Synchronization**: Critical section problem, semaphores, monitors, classic problems of synchronization
-- **Deadlocks**: Prevention, avoidance, detection, and recovery
-- **Memory Management**: Paging, segmentation, virtual memory, page replacement algorithms
-- **File Systems**: File concepts, access methods, directory structure, protection
-- **I/O Systems**: I/O hardware, application I/O interface, kernel I/O subsystem
-- **Disk Scheduling**: FCFS, SSTF, SCAN, C-SCAN algorithms
+- **Process Management**: Processes, threads, scheduling algorithms (FCFS, SJF, SRTN, RR).
+- **Synchronization**: Critical section problem, semaphores, monitors, classic problems of synchronization.
+- **Deadlocks**: Prevention, avoidance, detection, and recovery.
+- **Memory Management**: Paging, segmentation, virtual memory, page replacement algorithms.
+- **File Systems**: File concepts, access methods, directory structure, protection.
+- **I/O Systems**: I/O hardware, application I/O interface, kernel I/O subsystem.
+- **Disk Scheduling**: FCFS, SSTF, SCAN, C-SCAN algorithms.
 
 ### Repository Purpose
 
