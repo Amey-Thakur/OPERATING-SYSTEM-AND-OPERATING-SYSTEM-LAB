@@ -124,6 +124,7 @@ Study materials and planning resources for effective exam preparation:
 | 2 | [Syllabus Breakdown](My%20Preparation/Syllabus.png) | Detailed module-wise syllabus notes |
 | 3 | [Module Planning](My%20Preparation/Modules.png) | Topic organization and study schedule |
 | 4 | [Examination Blueprint](Blueprint%20(OS).png) | Question paper pattern and marking scheme |
+| 5 | [Achievement Certificate](Certificate.jpg) | Course completion recognition |
 
 ---
 
