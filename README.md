@@ -9,7 +9,7 @@
 
   ### CSC405 & CSL404 · Semester IV · Computer Engineering
 
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-6E7681.svg)](LICENSE)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
@@ -160,9 +160,9 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-2-795548.svg)](Operating%20System%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-C-8250DF.svg)](Operating%20System%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-Python-8250DF.svg)](Operating%20System%20Lab/)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-2-3949AB.svg)](Operating%20System%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-C-A8B9CC.svg)](Operating%20System%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-Python-3776AB.svg)](Operating%20System%20Lab/)
   [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-39FF14.svg)](Operating%20System%20Lab/PRACTICAL%20LAB.pdf)
 
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-OS%20Lab%20Portfolio-00B8D9?style=flat&logo=github)](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/)
@@ -223,7 +223,7 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
   [![Project](https://img.shields.io/badge/Project-Interest%20Calculator-BF3989.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
   [![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-00838F.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
-  [![Technology](https://img.shields.io/badge/Technology-Shell%20Script-8250DF.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
+  [![Technology](https://img.shields.io/badge/Technology-Shell%20Script-4EAA25.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
   [![Status](https://img.shields.io/badge/Status-Completed-2EA043.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
 
 </div>

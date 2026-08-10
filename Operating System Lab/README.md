@@ -11,9 +11,9 @@
 
   <!-- Badges -->
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
-  [![Programs](https://img.shields.io/badge/Programs-3-795548.svg)](#quick-navigation)
-  [![Language](https://img.shields.io/badge/Language-C-8250DF.svg)](./)
-  [![Language](https://img.shields.io/badge/Language-Python-8250DF.svg)](./)
+  [![Programs](https://img.shields.io/badge/Programs-3-3949AB.svg)](#quick-navigation)
+  [![Language](https://img.shields.io/badge/Language-C-A8B9CC.svg)](./)
+  [![Language](https://img.shields.io/badge/Language-Python-3776AB.svg)](./)
   [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-39FF14.svg)](PRACTICAL%20LAB.pdf)
 
   <!-- Short Description -->
