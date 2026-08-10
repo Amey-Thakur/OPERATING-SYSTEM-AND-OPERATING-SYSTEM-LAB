@@ -9,10 +9,10 @@
 
   ### CSC405 & CSL404 · Semester IV · Computer Engineering
 
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-9E9E9E.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Operating System (OS) and Operating System Laboratory (OS Lab), covering process management, scheduling algorithms, memory management, file systems, and practical implementations using C and Python.**
 
@@ -160,12 +160,12 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-2-yellowgreen.svg)](Operating%20System%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-C-blueviolet.svg)](Operating%20System%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-Python-blue.svg)](Operating%20System%20Lab/)
-  [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-brightgreen.svg)](Operating%20System%20Lab/PRACTICAL%20LAB.pdf)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-2-827717.svg)](Operating%20System%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-C-8250DF.svg)](Operating%20System%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-Python-8250DF.svg)](Operating%20System%20Lab/)
+  [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-5D4037.svg)](Operating%20System%20Lab/PRACTICAL%20LAB.pdf)
 
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-OS%20Lab%20Portfolio-007bff?style=flat&logo=github)](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/)
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-OS%20Lab%20Portfolio-00B8D9?style=flat&logo=github)](https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/)
 
 </div>
 
@@ -221,10 +221,10 @@ The laboratory component (CSL404) focuses on the practical implementation of the
 
   **A robust command-line utility for financial calculations**
 
-  [![Project](https://img.shields.io/badge/Project-Interest%20Calculator-purple.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
-  [![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
-  [![Technology](https://img.shields.io/badge/Technology-Shell%20Script-blue.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
-  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
+  [![Project](https://img.shields.io/badge/Project-Interest%20Calculator-6A1B9A.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
+  [![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-455A64.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
+  [![Technology](https://img.shields.io/badge/Technology-Shell%20Script-8250DF.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
+  [![Status](https://img.shields.io/badge/Status-Completed-2EA043.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
 
 </div>
 
