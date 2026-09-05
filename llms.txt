@@ -1,0 +1,42 @@
+# Operating System and Operating System Lab
+
+> CSC405: Operating System [OS] & CSL404: Operating System Lab [OS Lab] | SE
+> Semester IV | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Second Year, Semester IV
+Course codes: CSC405, CSL404
+Licence: CC BY 4.0, attribution required
+Repository created: 7 February 2022
+Work dated: 12 August 2020
+
+## What is in this repository
+
+- Assignments, 2 files
+- My Preparation, 2 files
+- OS, 18 files
+- Operating System Lab, 5 files
+- Reference Books, 10 files
+- THE WALL, 7 files
+- Blueprint (OS).png
+- Certificate.jpg
+- OS_Test_B-50.pdf
+- SE-Comps_CBCGS_Syllabus.pdf
+
+## Subject terms
+
+computer-engineering, computer-science, cpu-scheduling, engineering,
+memory-management, operating-system, operating-system-algorithms,
+operating-systems, operating-systems-lab, process-synchronization,
+reference-books, shell-scripting, system-calls, textbooks,
+university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/

@@ -1,0 +1,77 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "additionalType": "https://schema.org/LearningResource",
+    "name": "OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB",
+    "description": "CSC405: Operating System [OS] & CSL404: Operating System Lab [OS Lab] | SE Semester IV | Computer Engineering",
+    "identifier": "OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB",
+    "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateCreated": "2022-02-07",
+    "dateReleased": "2020-08-12",
+    "codeRepository": "https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
+    "developmentStatus": "complete",
+    "applicationCategory": "Academic Course Archive",
+    "educationalLevel": "Undergraduate, Second Year, Semester IV",
+    "keywords": [
+        "Computer Engineering",
+        "Computer Science",
+        "CPU Scheduling",
+        "Engineering",
+        "Memory Management",
+        "Operating System",
+        "Operating System Algorithms",
+        "Operating Systems",
+        "Operating Systems Lab",
+        "Process Synchronization",
+        "Reference Books",
+        "Shell Scripting",
+        "System Calls",
+        "Textbooks",
+        "University Of Mumbai",
+        "CSC405",
+        "CSL404",
+        "OS",
+        "OS Lab",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "SE Semester IV",
+        "Semester IV",
+        "Assignments",
+        "Study Notes",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ],
+    "url": "https://amey-thakur.github.io/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB/"
+}
